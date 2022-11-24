@@ -1,6 +1,6 @@
 # importation du dataset
 
-eclair <- read.csv("Donnees_enfants2.csv", sep = ";", 
+eclair <- read.csv("./donnes_perception/Donnees_enfants2.csv", sep = ";", 
                    header = TRUE, stringsAsFactors = T)
 
 eclair$Int.Chocolat = as.factor(eclair$Int.Chocolat)
@@ -18,14 +18,14 @@ summary(data)
 
 data.agr <- data[,c("Conso", "Eclair", "Liking")]
 
-data.agr$Int.Chocolat.manque <- (data$Int.Chocolat.1+data$Int.Chocolat.2)
-data.agr$Int.Chocolat.trop <- (data$Int.Chocolat.4+data$Int.Chocolat.5)
+data.agr$BasChoc <- (data$Int.Chocolat.1+data$Int.Chocolat.2)
+data.agr$TropChoc <- (data$Int.Chocolat.4+data$Int.Chocolat.5)
 
-data.agr$Sucre.manque <- (data$Sucre.1+data$Sucre.2)
-data.agr$Sucre.trop <- (data$Sucre.4+data$Sucre.5)
+data.agr$BasSucre <- (data$Sucre.1+data$Sucre.2)
+data.agr$TropSucre <- (data$Sucre.4+data$Sucre.5)
 
-data.agr$Lait.manque <- (data$Lait.1+data$Lait.2)
-data.agr$Lait.trop <- (data$Lait.4+data$Lait.5)
+data.agr$BasLait <- (data$Lait.1+data$Lait.2)
+data.agr$BasLait <- (data$Lait.4+data$Lait.5)
 
 summary(data.agr)
 
