@@ -67,7 +67,7 @@ data = data.frame (TDC, Conso = enfants$Conso, Eclair =  enfants$Eclair, Liking 
 summary(data)
 
 
-data.agr <- data[,c("Conso", "Eclair", "Liking")]
+data.agr <- data[,c("Liking", "Conso", "Eclair")]
 
 data.agr$BasChoc <- (data$Int.Chocolat.1+data$Int.Chocolat.2)
 data.agr$TropChoc <- (data$Int.Chocolat.4+data$Int.Chocolat.5)
@@ -87,6 +87,7 @@ mod2 <- LinearModel(Liking ~., data = data.agr)
 
 
 # Représentation graphique
+
 modAdults <- lmBrut
 modEnfants <- mod2
 
@@ -106,4 +107,25 @@ data %>% ggplot()+
   scale_x_continuous(limits = c(0,2.5))+
   scale_y_continuous(limits = c(0,2.5))+
   coord_fixed(ratio=1)
+
+
+## Fusion des deux datasets 
+
+adults$Class <- rep("adulte", length(adults$Conso))
+enfants$Class <- rep("enfant", length(enfants$Conso))
+
+dataComp$Class <- rep("adulte", length(dataComp$Conso))
+data.agr$Class <- rep("enfant", length(data.agr$Conso))
+
+merged_data <- rbind(dataComp[,-c(10,11)], data.agr)
+
+# Étude des différents modèles
+
+# Regardons simple avec simplement les défauts associés au chocolat 
+# TropChoc ou BasChoc
+# Afin de comprendre si ces défauts sont perçus de la même manière par les adultes
+# ou les enfants, on prend en compte l'interaction avec la classe. 
+
+merged_mod_Choc <- LinearModel(Liking ~ TropChoc*Class+BasChoc*Class, data = merged_data)
+merged_mod_Choc
 
