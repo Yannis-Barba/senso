@@ -33,6 +33,8 @@ library(ade4)
 disj <- acm.disjonctif(adults[,c("Int.Chocolat", "Sucre", "Lait", "Amer")])
 dataComp <- data.frame(adults["Liking"], disj, adults[,c("Conso", "Eclair")])
 
+dataComp$Conso <- as.factor(dataComp$Conso)
+
 dataComp <- dataComp[, -c(4, 9, 14, 19)]
 
 dataComp$BasChoc <- (dataComp$Int.Chocolat.1+dataComp$Int.Chocolat.2)
@@ -54,4 +56,24 @@ lm <- LinearModel(Liking~., data=dataComp, selection = "bic")
 lmBrut <- LinearModel(Liking~., data=dataComp)
 
 
+# Représentation graphique
+modAdults <- lmBrut
+modEnfants <- mod2
+
+coefAdults <- abs(modAdults$Ttest[71:76,1])
+coefEnfants <- abs(modEnfants$Ttest[49:54,1])
+
+library(ggplot2)
+library(tidyverse)
+
+data <- data.frame(coefAdults, coefEnfants)
+
+data %>% ggplot()+
+  geom_point(aes(x=coefAdults, y=coefEnfants))+
+  geom_text(aes(x=coefAdults, y=coefEnfants, label=rownames(data)),
+            hjust=-0.15, vjust=0)+
+  geom_abline(intercept = 0, slope = 1)+
+  scale_x_continuous(limits = c(0,2.5))+
+  scale_y_continuous(limits = c(0,2.5))+
+  coord_fixed(ratio=1)
 
