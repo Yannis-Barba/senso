@@ -1,15 +1,13 @@
+rm(list=ls())
 setwd("~/Bureau/ACO/stat/cours/sensometrie")
 
 adults <- read.csv("./donnees_perception/Donnees_adultes2.csv", sep=";", header=TRUE)
-enfants <- read.csv("./donnees_perception/Donnees_enfants2.csv", sep=";", header=TRUE)
 
 names(adults)
-names(enfants)
 
 summary(adults)
-summary(enfants)
 
-factors_commun <- c("Glacage", "Fourrage", "Eclair", "Attentes.gustatives", "Ressenti")
+## Adults
 
 adults$Glacage <- factor(adults$Glacage)
 adults$Fourrage <- factor(adults$Fourrage)
@@ -22,12 +20,6 @@ adults$Int.Chocolat <- factor(adults$Int.Chocolat)
 adults$Sucre <- factor(adults$Sucre)
 adults$Lait <- factor(adults$Lait)
 adults$Amer <- factor(adults$Amer)
-
-# enfants$Glacage <- factor(enfants$Glacage)
-# enfants$Fourrage <- factor(enfants$Fourrage)
-# enfants$Eclair <- factor(enfants$Eclair)
-# enfants$Attentes.gustatives <- factor(enfants$Attentes.gustatives)
-# enfants$Ressenti <- factor(enfants$Ressenti)
 
 library(ade4)
 disj <- acm.disjonctif(adults[,c("Int.Chocolat", "Sucre", "Lait", "Amer")])
@@ -54,6 +46,44 @@ dataComp <- dataComp[, -c(2:17)]
 library(FactoMineR)
 lm <- LinearModel(Liking~., data=dataComp, selection = "bic")
 lmBrut <- LinearModel(Liking~., data=dataComp)
+
+## Enfants
+
+# importation du dataset
+
+enfants <- read.csv("./donnees_perception/Donnees_enfants2.csv", sep = ";", 
+                   header = TRUE, stringsAsFactors = T)
+
+enfants$Int.Chocolat = as.factor(enfants$Int.Chocolat)
+enfants$Sucre = as.factor(enfants$Sucre)
+enfants$Lait = as.factor(enfants$Lait)
+
+library(ade4)
+#acm.disjonctif renvoie le TDC quand on a un tableau de facteurs
+
+
+TDC = acm.disjonctif(enfants[,c("Int.Chocolat", "Sucre", "Lait")])
+data = data.frame (TDC, Conso = enfants$Conso, Eclair =  enfants$Eclair, Liking = enfants$Liking)
+summary(data)
+
+
+data.agr <- data[,c("Conso", "Eclair", "Liking")]
+
+data.agr$BasChoc <- (data$Int.Chocolat.1+data$Int.Chocolat.2)
+data.agr$TropChoc <- (data$Int.Chocolat.4+data$Int.Chocolat.5)
+
+data.agr$BasSucre <- (data$Sucre.1+data$Sucre.2)
+data.agr$TropSucre <- (data$Sucre.4+data$Sucre.5)
+
+data.agr$BasLait <- (data$Lait.1+data$Lait.2)
+data.agr$TropLait <- (data$Lait.4+data$Lait.5)
+
+summary(data.agr)
+
+library(FactoMineR)
+mod <- LinearModel(Liking ~., data = data.agr, selection = "bic") 
+mod2 <- LinearModel(Liking ~., data = data.agr) 
+
 
 
 # Représentation graphique
