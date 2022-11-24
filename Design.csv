@@ -1,0 +1,17 @@
+;Couleur fond;Couleur forme;Forme;Taille forme;Localisation forme;Contour forme;Type fond
+A;orange;bleu;rond;grand;haut;pointillé;dégradé
+B;orange;bleu;carré;petit;bas;pointillé;dégradé
+C;orange;bleu;rond;petit;haut;continu;uni
+D;orange;vert;carré;grand;haut;pointillé;uni
+E;jaune;vert;rond;petit;haut;pointillé;dégradé
+F;jaune;vert;rond;grand;haut;continu;uni
+G;orange;vert;rond;petit;bas;pointillé;uni
+H;jaune;vert;carré;petit;bas;continu;uni
+I;jaune;vert;carré;grand;bas;pointillé;dégradé
+J;orange;vert;carré;petit;haut;continu;dégradé
+K;jaune;bleu;rond;grand;bas;pointillé;uni
+L;orange;bleu;carré;grand;bas;continu;uni
+M;jaune;bleu;carré;grand;haut;continu;dégradé
+N;jaune;bleu;carré;petit;haut;pointillé;uni
+O;jaune;bleu;rond;petit;bas;continu;dégradé
+P;orange;vert;rond;grand;bas;continu;dégradé

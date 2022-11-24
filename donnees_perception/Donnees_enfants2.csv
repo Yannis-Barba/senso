@@ -1,0 +1,343 @@
+Conso;Glacage;Fourrage;Eclair;App glacage;Attentes gustatives;Int Chocolat;Sucre;Lait;Ressenti;Liking;Difficulte Epreuve;Age enfant;Age parent
+1;Gfonce;Ffaible;Gfonce_Ffaible;8;noir,chocolat;1;2;3;un peu decu;5;7;3,5;37
+1;Gfonce;Ffort;Gfonce_Ffort;8;noir,chocolat;3;2;3;agreablement surpris;7;7;3,5;37
+1;Gfonce;Fmoyen;Gfonce_Fmoyen;8;noir,chocolat;2;3;3;je m attendais a ca;6;7;3,5;37
+1;Gmoyen;Ffort;Gmoyen_Ffort;10;marron,chocolat_au_lait;2;3;3;agreablement surpris;8;7;3,5;37
+1;Gmoyen;Fmoyen;Gmoyen_Fmoyen;10;marron,chocolat_au_lait;2;4;3;je m attendais a ca;5;7;3,5;37
+1;Gmoyen;Ffaible;Gmoyen_Ffaible;10;marron,chocolat_au_lait;2;5;3;je m attendais a ca;5;7;3,5;37
+1;Gclair;Ffaible;Gclair_Ffaible;9;marron,joli,brille;3;3;3;un peu decu;4;7;3,5;37
+1;Gclair;Ffort;Gclair_Ffort;9;marron,joli,brille;4;3;3;agreablement surpris;7;7;3,5;37
+1;Gclair;Fmoyen;Gclair_Fmoyen;9;marron,joli,brille;3;4;3;un peu decu;4;7;3,5;37
+2;Gfonce;Fmoyen;Gfonce_Fmoyen;3;beaucoup_de_chocolat;3;3;2;je m attendais a ca;4;0;12;37
+2;Gfonce;Ffort;Gfonce_Ffort;3;beaucoup_de_chocolat;2;5;4;agreablement surpris;7;0;12;37
+2;Gfonce;Ffaible;Gfonce_Ffaible;3;beaucoup_de_chocolat;2;4;3;agreablement surpris;8;0;12;37
+2;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;chocolat_noir,chocolat_au_lait;4;4;3;je m attendais a ca;5;0;12;37
+2;Gmoyen;Ffaible;Gmoyen_Ffaible;7;chocolat_noir,chocolat_au_lait;4;3;3;un peu decu;4;0;12;37
+2;Gmoyen;Ffort;Gmoyen_Ffort;7;chocolat_noir,chocolat_au_lait;5;2;2;un peu decu;3;0;12;37
+2;Gclair;Fmoyen;Gclair_Fmoyen;10;tres_lait,peu_de_chocolat;3;3;3;je m attendais a ca;6;0;12;37
+2;Gclair;Ffaible;Gclair_Ffaible;10;tres_lait,peu_de_chocolat;1;4;4;tres agreablement surpris;10;0;12;37
+2;Gclair;Ffort;Gclair_Ffort;10;tres_lait,peu_de_chocolat;5;2;3;un peu decu;2;0;12;37
+3;Gfonce;Ffaible;Gfonce_Ffaible;10;belle_couleur,chocolat;3;3;3;un peu decu;9;8;7;37
+3;Gfonce;Ffort;Gfonce_Ffort;10;belle_couleur,chocolat;3;4;4;je m attendais a ca;9;8;7;37
+3;Gfonce;Fmoyen;Gfonce_Fmoyen;10;belle_couleur,chocolat;3;4;3;je m attendais a ca;8;8;7;37
+3;Gmoyen;Ffort;Gmoyen_Ffort;6;chocolat,caramel;4;3;3;agreablement surpris;7;8;7;37
+3;Gmoyen;Fmoyen;Gmoyen_Fmoyen;6;chocolat,caramel;3;4;3;un peu decu;7;8;7;37
+3;Gmoyen;Ffaible;Gmoyen_Ffaible;6;chocolat,caramel;4;4;3;un peu decu;6;8;7;37
+3;Gclair;Ffaible;Gclair_Ffaible;5;caramel,chocolat_au_lait;4;4;3;je m attendais a ca;7;8;7;37
+3;Gclair;Ffort;Gclair_Ffort;5;caramel,chocolat_au_lait;4;2;3;je m attendais a ca;5;8;7;37
+3;Gclair;Fmoyen;Gclair_Fmoyen;5;caramel,chocolat_au_lait;2;4;3;je m attendais a ca;5;8;7;37
+4;Gfonce;Ffort;Gfonce_Ffort;4;chocolat,bon;3;4;3;agreablement surpris;5;3;9;36
+4;Gfonce;Ffaible;Gfonce_Ffaible;4;chocolat,bon;1;2;4;agreablement surpris;8;3;9;36
+4;Gfonce;Fmoyen;Gfonce_Fmoyen;4;chocolat,bon;2;4;3;agreablement surpris;9;3;9;36
+4;Gmoyen;Ffaible;Gmoyen_Ffaible;6;bon,caramel;4;3;2;un peu decu;6;3;9;36
+4;Gmoyen;Fmoyen;Gmoyen_Fmoyen;6;bon,caramel;4;4;3;un peu decu;6;3;9;36
+4;Gmoyen;Ffort;Gmoyen_Ffort;6;bon,caramel;4;3;3;un peu decu;3;3;9;36
+4;Gclair;Ffaible;Gclair_Ffaible;10;cafe;3;3;3;je m attendais a ca;9;3;9;36
+4;Gclair;Fmoyen;Gclair_Fmoyen;10;cafe;5;5;3;un peu decu;3;3;9;36
+4;Gclair;Ffort;Gclair_Ffort;10;cafe;5;5;2;tres decu;3;3;9;36
+4b;Gfonce;Ffort;Gfonce_Ffort;3;chocolat_noir,fort,pas_bon;3;4;4;agreablement surpris;3;0;10;36
+4b;Gfonce;Ffaible;Gfonce_Ffaible;3;chocolat_noir,fort,pas_bon;1;5;5;agreablement surpris;5;0;10;36
+4b;Gfonce;Fmoyen;Gfonce_Fmoyen;3;chocolat_noir,fort,pas_bon;1;4;4;agreablement surpris;5;0;10;36
+4b;Gmoyen;Ffaible;Gmoyen_Ffaible;9;chocolat_au_lait;1;4;4;un peu decu;7;0;10;36
+4b;Gmoyen;Fmoyen;Gmoyen_Fmoyen;9;chocolat_au_lait;3;4;3;je m attendais a ca;8;0;10;36
+4b;Gmoyen;Ffort;Gmoyen_Ffort;9;chocolat_au_lait;4;1;1;tres decu;3;0;10;36
+4b;Gclair;Ffaible;Gclair_Ffaible;3;cafe,caramel;4;5;5;tres agreablement surpris;8;0;10;36
+4b;Gclair;Fmoyen;Gclair_Fmoyen;3;cafe,caramel;3;4;4;agreablement surpris;6;0;10;36
+4b;Gclair;Ffort;Gclair_Ffort;3;cafe,caramel;5;2;3;un peu decu;2;0;10;36
+5;Gfonce;Fmoyen;Gfonce_Fmoyen;6;chocolat_noir,foncee,je_vais_aimer;1;4;3;je m attendais a ca;6;6;6;53
+5;Gfonce;Ffaible;Gfonce_Ffaible;6;chocolat_noir,foncee,je_vais_aimer;1;2;5;un peu decu;5;6;6;53
+5;Gfonce;Ffort;Gfonce_Ffort;6;chocolat_noir,foncee,je_vais_aimer;3;1;3;je m attendais a ca;8;6;6;53
+5;Gmoyen;Ffaible;Gmoyen_Ffaible;7;chocolat_au_lait,chocolat;2;3;3;tres agreablement surpris;10;6;6;53
+5;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;chocolat_au_lait,chocolat;1;4;4;tres decu;4;6;6;53
+5;Gmoyen;Ffort;Gmoyen_Ffort;7;chocolat_au_lait,chocolat;3;3;3;je m attendais a ca;9;6;6;53
+5;Gclair;Ffaible;Gclair_Ffaible;6;claire,caramel;1;3;1;un peu decu;2;6;6;53
+5;Gclair;Ffort;Gclair_Ffort;6;claire,caramel;2;3;3;un peu decu;7;6;6;53
+5;Gclair;Fmoyen;Gclair_Fmoyen;6;claire,caramel;3;3;2;agreablement surpris;8;6;6;53
+6;Gfonce;Ffaible;Gfonce_Ffaible;9;j_aime;3;3;4;je m attendais a ca;10;6;7;34
+6;Gfonce;Ffort;Gfonce_Fmoyen;9;j_aime;3;3;4;agreablement surpris;8;6;7;34
+6;Gfonce;Fmoyen;Gfonce_Ffort;9;j_aime;4;3;3;un peu decu;5;6;7;34
+6;Gclair;Ffaible;Gclair_Ffaible;2;cafe,j_aime_pas;3;4;4;agreablement surpris;10;6;7;34
+6;Gclair;Ffort;Gclair_Ffort;2;cafe,j_aime_pas;3;3;3;agreablement surpris;10;6;7;34
+6;Gclair;Fmoyen;Gclair_Fmoyen;2;cafe,j_aime_pas;4;2;4;un peu decu;8;6;7;34
+6;Gmoyen;Ffort;Gmoyen_Ffort;9;j_aime;3;3;3;je m attendais a ca;10;6;7;34
+6;Gmoyen;Fmoyen;Gmoyen_Fmoyen;9;j_aime;4;2;2;je m attendais a ca;3;6;7;34
+6;Gmoyen;Ffaible;Gmoyen_Ffaible;9;j_aime;3;3;2;un peu decu;5;6;7;34
+7;Gfonce;Ffort;Gfonce_Ffort;7;j_aime;3;3;3;tres agreablement surpris;9;5;7;44
+7;Gfonce;Ffaible;Gfonce_Ffaible;7;j_aime;4;4;4;un peu decu;5;5;7;44
+7;Gfonce;Fmoyen;Gfonce_Fmoyen;7;j_aime;5;3;3;agreablement surpris;10;5;7;44
+7;Gclair;Fmoyen;Gclair_Fmoyen;4;cafe,j_aime_pas;5;3;2;un peu decu;6;5;7;44
+7;Gclair;Ffort;Gclair_Ffort;4;cafe,j_aime_pas;5;4;3;agreablement surpris;8;5;7;44
+7;Gclair;Ffaible;Gclair_Ffaible;4;cafe,j_aime_pas;4;4;3;agreablement surpris;4;5;7;44
+7;Gmoyen;Ffaible;Gmoyen_Ffaible;10;couleur_preferee;4;4;3;agreablement surpris;5;5;7;44
+7;Gmoyen;Fmoyen;Gmoyen_Fmoyen;10;couleur_preferee;4;4;3;un peu decu;3;5;7;44
+7;Gmoyen;Ffort;Gmoyen_Ffort;10;couleur_preferee;1;2;2;un peu decu;3;5;7;44
+8;Gfonce;Ffort;Gfonce_Ffort;5;bon,chocolat;4;2;3;agreablement surpris;8;8;8;42
+8;Gfonce;Fmoyen;Gfonce_Fmoyen;5;bon,chocolat;2;3;3;je m attendais a ca;5;8;8;42
+8;Gfonce;Ffaible;Gfonce_Ffaible;5;bon,chocolat;3;4;3;agreablement surpris;7;8;8;42
+8;Gclair;Fmoyen;Gclair_Fmoyen;8;caramel;5;3;3;un peu decu;5;8;8;42
+8;Gclair;Ffort;Gclair_Ffort;8;caramel;5;4;3;un peu decu;2;8;8;42
+8;Gclair;Ffaible;Gclair_Ffaible;8;caramel;3;3;3;je m attendais a ca;7;8;8;42
+8;Gmoyen;Ffaible;Gmoyen_Ffaible;5;je_sais_pas;3;3;3;je m attendais a ca;5;8;8;42
+8;Gmoyen;Ffort;Gmoyen_Ffort;5;je_sais_pas;4;5;3;un peu decu;1;8;8;42
+8;Gmoyen;Fmoyen;Gmoyen_Fmoyen;5;je_sais_pas;3;3;3;je m attendais a ca;5;8;8;42
+9;Gfonce;Ffort;Gfonce_Ffort;5;chocolat_noir,bon,tres_fonce;2;2;3;un peu decu;5;7;7;43
+9;Gfonce;Fmoyen;Gfonce_Fmoyen;5;chocolat_noir,bon,tres_fonce;4;4;3;tres agreablement surpris;8;7;7;43
+9;Gfonce;Ffaible;Gfonce_Ffaible;5;chocolat_noir,bon,tres_fonce;5;2;2;agreablement surpris;6;7;7;43
+9;Gclair;Ffort;Gclair_Ffort;5;cafe,je_sais_pas;5;4;3;un peu decu;4;7;7;43
+9;Gclair;Fmoyen;Gclair_Fmoyen;5;cafe,je_sais_pas;4;5;3;un peu decu;5;7;7;43
+9;Gclair;Ffaible;Gclair_Ffaible;5;cafe,je_sais_pas;3;4;4;un peu decu;6;7;7;43
+9;Gmoyen;Ffort;Gmoyen_Ffort;10;parfait,lait,chocolat;5;4;3;tres decu;2;7;7;43
+9;Gmoyen;Ffaible;Gmoyen_Ffaible;10;parfait,lait,chocolat;4;3;5;agreablement surpris;5;7;7;43
+9;Gmoyen;Fmoyen;Gmoyen_Fmoyen;10;parfait,lait,chocolat;3;5;3;un peu decu;3;7;7;43
+10;Gmoyen;Ffaible;Gmoyen_Ffaible;5;chocolat_noir,chocolat_au_lait;2;2;1;agreablement surpris;7;6;8;49
+10;Gmoyen;Fmoyen;Gmoyen_Ffort;5;chocolat_noir,chocolat_au_lait;5;4;3;je m attendais a ca;5;6;8;49
+10;Gmoyen;Ffort;Gmoyen_Fmoyen;5;chocolat_noir,chocolat_au_lait;1;1;1;je m attendais a ca;4;6;8;49
+10;Gfonce;Ffort;Gfonce_Ffort;4;trop_noir,trop_fort_en_chocolat;3;4;2;tres decu;4;6;8;49
+10;Gfonce;Ffaible;Gfonce_Ffaible;4;trop_noir,trop_fort_en_chocolat;1;3;5;je m attendais a ca;6;6;8;49
+10;Gfonce;Fmoyen;Gfonce_Fmoyen;4;trop_noir,trop_fort_en_chocolat;3;3;4;tres agreablement surpris;10;6;8;49
+10;Gclair;Fmoyen;Gclair_Fmoyen;3;cafe;2;3;3;agreablement surpris;5;6;8;49
+10;Gclair;Ffaible;Gclair_Ffaible;3;cafe;5;3;3;agreablement surpris;9;6;8;49
+10;Gclair;Ffort;Gclair_Ffort;3;cafe;5;2;1;un peu decu;4;6;8;49
+11;Gmoyen;Ffort;Gmoyen_Ffort;7;chocolat_au_lait,sucre;3;2;3;agreablement surpris;8;7;8;35
+11;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;chocolat_au_lait,sucre;4;5;2;tres agreablement surpris;9;7;8;35
+11;Gmoyen;Ffaible;Gmoyen_Ffaible;7;chocolat_au_lait,sucre;5;3;4;tres agreablement surpris;10;7;8;35
+11;Gfonce;Ffort;Gfonce_Ffort;6;chocolat_noir,terre,bon;5;4;3;un peu decu;5;7;8;35
+11;Gfonce;Fmoyen;Gfonce_Fmoyen;6;chocolat_noir,terre,bon;4;2;3;agreablement surpris;8;7;8;35
+11;Gfonce;Ffaible;Gfonce_Ffaible;6;chocolat_noir,terre,bon;3;4;3;agreablement surpris;9;7;8;35
+11;Gclair;Fmoyen;Gclair_Fmoyen;10;joli,sucre,cafe;5;4;3;agreablement surpris;9;7;8;35
+11;Gclair;Ffaible;Gclair_Ffaible;10;joli,sucre,cafe;4;4;4;agreablement surpris;9;7;8;35
+11;Gclair;Ffort;Gclair_Ffort;10;joli,sucre,cafe;5;3;2;tres decu;3;7;8;35
+12;Gmoyen;Ffort;Gmoyen_Ffort;10;j_aime,caramel;4;3;5;je m attendais a ca;8;0;9;42
+12;Gmoyen;Fmoyen;Gmoyen_Fmoyen;10;j_aime,caramel;3;3;3;agreablement surpris;10;0;9;42
+12;Gmoyen;Ffaible;Gmoyen_Ffaible;10;j_aime,caramel;2;5;4;un peu decu;5;0;9;42
+12;Gfonce;Ffaible;Gfonce_Ffaible;10;bon,chocolat;3;2;4;agreablement surpris;10;0;9;42
+12;Gfonce;Ffort;Gfonce_Ffort;10;bon,chocolat;5;3;2;un peu decu;4;0;9;42
+12;Gfonce;Fmoyen;Gfonce_Fmoyen;10;bon,chocolat;3;3;5;je m attendais a ca;7;0;9;42
+12;Gclair;Ffaible;Gclair_Ffaible;10;pas_belle_couleur,cafe;1;5;4;tres agreablement surpris;4;0;9;42
+12;Gclair;Fmoyen;Gclair_Fmoyen;10;pas_belle_couleur,cafe;3;4;4;je m attendais a ca;8;0;9;42
+12;Gclair;Ffort;Gclair_Ffort;10;pas_belle_couleur,cafe;5;3;1;tres decu;1;0;9;42
+13;Gmoyen;Ffaible;Gmoyen_Ffaible;3;pas_assez_de_chocolat;1;2;4;agreablement surpris;9;5;7;42
+13;Gmoyen;Ffort;Gmoyen_Ffort;3;pas_assez_de_chocolat;5;3;2;je m attendais a ca;8;5;7;42
+13;Gmoyen;Fmoyen;Gmoyen_Fmoyen;3;pas_assez_de_chocolat;2;4;2;agreablement surpris;10;5;7;42
+13;Gfonce;Ffaible;Gfonce_Ffaible;9;bon,assez_de_chocolat;2;2;4;un peu decu;9;5;7;42
+13;Gfonce;Fmoyen;Gfonce_Fmoyen;9;bon,assez_de_chocolat;2;4;3;agreablement surpris;10;5;7;42
+13;Gfonce;Ffort;Gfonce_Ffort;9;bon,assez_de_chocolat;2;3;4;je m attendais a ca;10;5;7;42
+13;Gclair;Ffaible;Gclair_Ffaible;0;pas_assez_de_lait;2;1;4;agreablement surpris;9;5;7;42
+13;Gclair;Fmoyen;Gclair_Fmoyen;0;pas_assez_de_lait;4;2;4;tres agreablement surpris;10;5;7;42
+13;Gclair;Ffort;Gclair_Ffort;0;pas_assez_de_lait;3;4;2;agreablement surpris;10;5;7;42
+13b;Gmoyen;Ffaible;Gmoyen_Ffaible;6;chocolat_au_lait;4;3;3;je m attendais a ca;10;7;7;42
+13b;Gmoyen;Ffort;Gmoyen_Ffort;6;chocolat_au_lait;4;4;3;je m attendais a ca;7;7;7;42
+13b;Gmoyen;Fmoyen;Gmoyen_Fmoyen;6;chocolat_au_lait;3;3;3;je m attendais a ca;9;7;7;42
+13b;Gfonce;Ffaible;Gfonce_Ffaible;10;chocolat_noir,tres_bon;3;3;3;je m attendais a ca;10;7;7;42
+13b;Gfonce;Fmoyen;Gfonce_Fmoyen;10;chocolat_noir,tres_bon;3;3;3;je m attendais a ca;10;7;7;42
+13b;Gfonce;Ffort;Gfonce_Ffort;10;chocolat_noir,tres_bon;3;3;3;je m attendais a ca;10;7;7;42
+13b;Gclair;Ffaible;Gclair_Ffaible;0;cafe;3;3;3;je m attendais a ca;8;7;7;42
+13b;Gclair;Fmoyen;Gclair_Fmoyen;0;cafe;3;4;3;je m attendais a ca;9;7;7;42
+13b;Gclair;Ffort;Gclair_Ffort;0;cafe;4;3;3;je m attendais a ca;8;7;7;42
+14;Gmoyen;Ffort;Gmoyen_Ffort;8;sucre,chocolat_au_lait,fondant,froid;4;3;2;tres agreablement surpris;9;2;10;44
+14;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;sucre,chocolat_au_lait,fondant,froid;5;4;3;agreablement surpris;8;2;10;44
+14;Gmoyen;Ffaible;Gmoyen_Ffaible;8;sucre,chocolat_au_lait,fondant,froid;4;5;3;tres agreablement surpris;10;2;10;44
+14;Gfonce;Ffaible;Gfonce_Ffaible;9;j_aime_beaucoup,tres_bon,tres_chocolat,peu_sucre,croquant;4;3;2;agreablement surpris;9;2;10;44
+14;Gfonce;Fmoyen;Gfonce_Fmoyen;9;j_aime_beaucoup,tres_bon,tres_chocolat,peu_sucre,croquant;4;5;3;tres agreablement surpris;10;2;10;44
+14;Gfonce;Ffort;Gfonce_Ffort;9;j_aime_beaucoup,tres_bon,tres_chocolat,peu_sucre,croquant;5;5;4;tres agreablement surpris;10;2;10;44
+14;Gclair;Ffaible;Gclair_Ffaible;7;peu_chocolat,tres_lait,tres_sucre;2;3;3;je m attendais a ca;7;2;10;44
+14;Gclair;Fmoyen;Gclair_Fmoyen;7;peu_chocolat,tres_lait,tres_sucre;4;3;2;agreablement surpris;9;2;10;44
+14;Gclair;Ffort;Gclair_Ffort;7;peu_chocolat,tres_lait,tres_sucre;4;3;5;un peu decu;6;2;10;44
+15;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chocolat,bon;3;3;3;un peu decu;8;2;10;42
+15;Gmoyen;Ffort;Gmoyen_Ffort;8;chocolat,bon;3;4;3;agreablement surpris;7;2;10;42
+15;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chocolat,bon;3;4;4;un peu decu;5;2;10;42
+15;Gclair;Ffort;Gclair_Ffort;3;cafe,j_aime_pas;4;3;3;tres agreablement surpris;6;2;10;42
+15;Gclair;Ffaible;Gclair_Ffaible;3;cafe,j_aime_pas;1;4;4;un peu decu;3;2;10;42
+15;Gclair;Fmoyen;Gclair_Fmoyen;3;cafe,j_aime_pas;4;3;3;un peu decu;3;2;10;42
+15;Gfonce;Ffort;Gfonce_Ffort;5;chocolat;4;3;3;je m attendais a ca;5;2;10;42
+15;Gfonce;Ffaible;Gfonce_Ffaible;5;chocolat;2;4;4;un peu decu;3;2;10;42
+15;Gfonce;Fmoyen;Gfonce_Fmoyen;5;chocolat;3;3;4;un peu decu;3;2;10;42
+16;Gmoyen;Fmoyen;Gmoyen_Fmoyen;9;j_aime;3;2;3;agreablement surpris;10;1;10;42
+16;Gmoyen;Ffaible;Gmoyen_Ffaible;9;j_aime;3;3;2;tres agreablement surpris;9;1;10;42
+16;Gmoyen;Ffort;Gmoyen_Ffort;9;j_aime;5;1;2;un peu decu;6;1;10;42
+16;Gclair;Ffaible;Gclair_Ffaible;10;j_aime_pas,cafe;2;3;3;agreablement surpris;10;1;10;42
+16;Gclair;Fmoyen;Gclair_Fmoyen;10;j_aime_pas,cafe;3;3;3;je m attendais a ca;9;1;10;42
+16;Gclair;Ffort;Gclair_Ffort;10;j_aime_pas,cafe;3;2;2;agreablement surpris;10;1;10;42
+16;Gfonce;Ffort;Gfonce_Ffort;10;magnifique,j_aime;4;2;2;un peu decu;8;1;10;42
+16;Gfonce;Fmoyen;Gfonce_Ffaible;10;magnifique,j_aime;3;3;3;tres agreablement surpris;10;1;10;42
+16;Gfonce;Ffaible;Gfonce_Fmoyen;10;magnifique,j_aime;3;2;2;agreablement surpris;10;1;10;42
+17;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chocolat,j_aime;3;2;3;je m attendais a ca;5;5;9;38
+17;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chocolat,j_aime;4;2;2;un peu decu;3;5;9;38
+17;Gmoyen;Ffort;Gmoyen_Ffort;8;chocolat,j_aime;5;2;4;tres agreablement surpris;10;5;9;38
+17;Gclair;Ffaible;Gclair_Ffaible;8;sucre;3;3;3;agreablement surpris;8;5;9;38
+17;Gclair;Fmoyen;Gclair_Fmoyen;8;sucre;3;2;2;un peu decu;5;5;9;38
+17;Gclair;Ffort;Gclair_Ffort;8;sucre;5;2;2;je m attendais a ca;6;5;9;38
+17;Gfonce;Ffort;Gfonce_Ffort;7;chocolat_noir,un_peu_sucre,chocolat;4;5;2;un peu decu;4;5;9;38
+17;Gfonce;Ffaible;Gfonce_Ffaible;7;chocolat_noir,un_peu_sucre,chocolat;2;3;3;je m attendais a ca;10;5;9;38
+17;Gfonce;Fmoyen;Gfonce_Fmoyen;7;chocolat_noir,un_peu_sucre,chocolat;3;2;3;agreablement surpris;9;5;9;38
+18;Gmoyen;Ffort;Gmoyen_Ffort;10;nutella,j_aime;4;2;3;agreablement surpris;9;3;9;48
+18;Gmoyen;Fmoyen;Gmoyen_Fmoyen;10;nutella,j_aime;4;4;3;agreablement surpris;8;3;9;48
+18;Gmoyen;Ffaible;Gmoyen_Ffaible;10;nutella,j_aime;4;4;3;agreablement surpris;8;3;9;48
+18;Gclair;Ffaible;Gclair_Ffaible;7;tres_lait;3;3;2;agreablement surpris;8;3;9;48
+18;Gclair;Ffort;Gclair_Ffort;7;tres_lait;4;4;4;agreablement surpris;8;3;9;48
+18;Gclair;Fmoyen;Gclair_Fmoyen;7;tres_lait;4;3;4;un peu decu;8;3;9;48
+18;Gfonce;Ffaible;Gfonce_Ffaible;10;tres_chocolat;3;3;3;je m attendais a ca;9;3;9;48
+18;Gfonce;Fmoyen;Gfonce_Fmoyen;10;tres_chocolat;4;3;4;je m attendais a ca;9;3;9;48
+18;Gfonce;Ffort;Gfonce_Ffort;10;tres_chocolat;4;3;5;agreablement surpris;10;3;9;48
+19;Gmoyen;Ffort;Gmoyen_Ffort;6;chocolat,sucre;3;4;3;je m attendais a ca;6;7;10;42
+19;Gmoyen;Fmoyen;Gmoyen_Fmoyen;6;chocolat,sucre;4;3;3;agreablement surpris;7;7;10;42
+19;Gmoyen;Ffaible;Gmoyen_Ffaible;6;chocolat,sucre;3;3;4;un peu decu;4;7;10;42
+19;Gclair;Ffort;Gclair_Ffort;8;je_sais_pas;4;5;3;tres decu;2;7;10;42
+19;Gclair;Ffaible;Gclair_Ffaible;8;je_sais_pas;3;3;3;agreablement surpris;9;7;10;42
+19;Gclair;Fmoyen;Gclair_Fmoyen;8;je_sais_pas;4;3;3;je m attendais a ca;8;7;10;42
+19;Gfonce;Ffaible;Gfonce_Ffaible;4;bof;2;3;3;tres agreablement surpris;10;7;10;42
+19;Gfonce;Ffort;Gfonce_Ffort;4;bof;4;4;3;un peu decu;5;7;10;42
+19;Gfonce;Fmoyen;Gfonce_Fmoyen;4;bof;4;4;3;agreablement surpris;8;7;10;42
+20;Gmoyen;Ffaible;Gmoyen_Ffaible;5;j_aime;3;5;3;agreablement surpris;10;4;7;44
+20;Gmoyen;Ffort;Gmoyen_Ffort;5;j_aime;3;1;5;agreablement surpris;9;4;7;44
+20;Gmoyen;Fmoyen;Gmoyen_Fmoyen;5;j_aime;5;5;3;tres agreablement surpris;10;4;7;44
+20;Gclair;Fmoyen;Gclair_Fmoyen;7;cafe,caramel;2;2;3;tres agreablement surpris;9;4;7;44
+20;Gclair;Ffort;Gclair_Ffort;7;cafe,caramel;5;1;3;un peu decu;4;4;7;44
+20;Gclair;Ffaible;Gclair_Ffaible;7;cafe,caramel;4;1;4;tres agreablement surpris;10;4;7;44
+20;Gfonce;Ffort;Gfonce_Ffort;10;chocolat,j_aime;4;3;3;agreablement surpris;9;4;7;44
+20;Gfonce;Ffaible;Gfonce_Ffaible;10;chocolat,j_aime;3;3;3;agreablement surpris;9;4;7;44
+20;Gfonce;Fmoyen;Gfonce_Fmoyen;10;chocolat,j_aime;1;4;3;tres agreablement surpris;10;4;7;44
+21;Gclair;Ffaible;Gclair_Ffaible;4;cafe,j_aime_pas,crotte,cafe;5;3;4;un peu decu;2;3;10;50
+21;Gclair;Fmoyen;Gclair_Fmoyen;4;cafe,j_aime_pas,crotte,cafe;4;4;2;un peu decu;2;3;10;50
+21;Gclair;Ffort;Gclair_Ffort;4;cafe,j_aime_pas,crotte,cafe;5;4;2;un peu decu;2;3;10;50
+21;Gfonce;Fmoyen;Gfonce_Fmoyen;9;jolie,bon,tres_chocolat;1;2;2;un peu decu;2;3;10;50
+21;Gfonce;Ffaible;Gfonce_Ffaible;9;jolie,bon,tres_chocolat;2;3;3;je m attendais a ca;5;3;10;50
+21;Gfonce;Ffort;Gfonce_Ffort;9;jolie,bon,tres_chocolat;5;3;2;un peu decu;3;3;10;50
+21;Gmoyen;Fmoyen;Gmoyen_Fmoyen;10;j_aime,vrai_chocolat,doux,leger;3;3;3;tres agreablement surpris;10;3;10;50
+21;Gmoyen;Ffaible;Gmoyen_Ffaible;10;j_aime,vrai_chocolat,doux,leger;3;3;2;je m attendais a ca;7;3;10;50
+21;Gmoyen;Ffort;Gmoyen_Ffort;10;j_aime,vrai_chocolat,doux,leger;5;2;3;un peu decu;2;3;10;50
+22;Gclair;Ffaible;Gclair_Ffaible;5;caramel,sucre;3;2;3;je m attendais a ca;5;4;7;37
+22;Gclair;Fmoyen;Gclair_Fmoyen;5;caramel,sucre;4;3;4;un peu decu;4;4;7;37
+22;Gclair;Ffort;Gclair_Ffort;5;caramel,sucre;5;3;3;je m attendais a ca;7;4;7;37
+22;Gfonce;Fmoyen;Gfonce_Fmoyen;5;chocolat_noir,fort;2;3;3;un peu decu;4;4;7;37
+22;Gfonce;Ffaible;Gfonce_Ffaible;5;chocolat_noir,fort;3;3;3;je m attendais a ca;5;4;7;37
+22;Gfonce;Ffort;Gfonce_Ffort;5;chocolat_noir,fort;5;3;4;tres decu;2;4;7;37
+22;Gmoyen;Fmoyen;Gmoyen_Fmoyen;10;bon_gout,chocolat_au_lait;3;3;3;agreablement surpris;9;4;7;37
+22;Gmoyen;Ffort;Gmoyen_Ffort;10;bon_gout,chocolat_au_lait;5;2;3;un peu decu;4;4;7;37
+22;Gmoyen;Ffaible;Gmoyen_Ffaible;10;bon_gout,chocolat_au_lait;3;3;3;tres agreablement surpris;10;4;7;37
+23;Gclair;Ffaible;Gclair_Ffaible;5;moyen;5;4;4;un peu decu;3;1;6;36
+23;Gclair;Fmoyen;Gclair_Fmoyen;5;moyen;4;5;3;un peu decu;4;1;6;36
+23;Gclair;Ffort;Gclair_Ffort;5;moyen;2;2;3;agreablement surpris;6;1;6;36
+23;Gfonce;Ffort;Gfonce_Ffort;6;chocolat;3;4;2;tres agreablement surpris;1;1;6;36
+23;Gfonce;Ffaible;Gfonce_Ffaible;6;chocolat;4;4;2;agreablement surpris;2;1;6;36
+23;Gfonce;Fmoyen;Gfonce_Fmoyen;6;chocolat;1;3;5;agreablement surpris;10;1;6;36
+23;Gmoyen;Ffaible;Gmoyen_Ffaible;7;bon;2;2;5;un peu decu;0;1;6;36
+23;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;bon;4;4;3;je m attendais a ca;5;1;6;36
+23;Gmoyen;Ffort;Gmoyen_Ffort;7;bon;2;2;2;un peu decu;0;1;6;36
+24;Gclair;Fmoyen;Gclair_Fmoyen;5;cafe,caramel,creme;5;3;3;agreablement surpris;9;7;8;38
+24;Gclair;Ffaible;Gclair_Ffaible;5;cafe,caramel,creme;4;2;2;je m attendais a ca;7;7;8;38
+24;Gclair;Ffort;Gclair_Ffort;5;cafe,caramel,creme;5;1;4;un peu decu;3;7;8;38
+24;Gfonce;Ffort;Gfonce_Ffort;4;chocolat_noir;4;2;2;un peu decu;2;7;8;38
+24;Gfonce;Ffaible;Gfonce_Ffaible;4;chocolat_noir;3;2;2;je m attendais a ca;3;7;8;38
+24;Gfonce;Fmoyen;Gfonce_Fmoyen;4;chocolat_noir;3;3;2;je m attendais a ca;5;7;8;38
+24;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chocolat_au_lait;4;3;2;un peu decu;6;7;8;38
+24;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chocolat_au_lait;3;2;2;un peu decu;8;7;8;38
+24;Gmoyen;Ffort;Gmoyen_Ffort;8;chocolat_au_lait;4;1;3;un peu decu;3;7;8;38
+25;Gclair;Fmoyen;Gclair_Fmoyen;9;caramel,liquide,beurre_sale,coulant,delicieux;2;3;4;agreablement surpris;9;5;9;38
+25;Gclair;Ffort;Gclair_Ffort;9;caramel,liquide,beurre_sale,coulant,delicieux;4;1;3;un peu decu;4;5;9;38
+25;Gclair;Ffaible;Gclair_Ffaible;9;caramel,liquide,beurre_sale,coulant,delicieux;3;2;5;je m attendais a ca;7;5;9;38
+25;Gfonce;Ffort;Gfonce_Ffort;7;chocolat,tres_bon,chocolat_noir;4;4;4;agreablement surpris;8;5;9;38
+25;Gfonce;Fmoyen;Gfonce_Fmoyen;7;chocolat,tres_bon,chocolat_noir;2;5;4;agreablement surpris;10;5;9;38
+25;Gfonce;Ffaible;Gfonce_Ffaible;7;chocolat,tres_bon,chocolat_noir;1;2;5;un peu decu;5;5;9;38
+25;Gmoyen;Ffaible;Gmoyen_Ffaible;9;j_aime,caramel,bonbons_michoko,;3;4;3;agreablement surpris;10;5;9;38
+25;Gmoyen;Fmoyen;Gmoyen_Fmoyen;9;j_aime,caramel,bonbons_michoko,;2;4;4;un peu decu;7;5;9;38
+25;Gmoyen;Ffort;Gmoyen_Ffort;9;j_aime,caramel,bonbons_michoko,;5;4;3;un peu decu;6;5;9;38
+26;Gclair;Fmoyen;Gclair_Fmoyen;10;cafe,j_aime,brille,cafe,bon;5;1;2;un peu decu;2;7;9;22
+26;Gclair;Ffort;Gclair_Ffort;10;cafe,j_aime,brille,cafe,bon;3;1;5;tres decu;0;7;9;22
+26;Gclair;Ffaible;Gclair_Ffaible;10;cafe,j_aime,brille,cafe,bon;2;3;3;je m attendais a ca;7;7;9;22
+26;Gfonce;Ffort;Gfonce_Ffort;3;tres_fonce,pas_assez_sucre;2;1;5;tres decu;0;7;9;22
+26;Gfonce;Ffaible;Gfonce_Ffaible;3;tres_fonce,pas_assez_sucre;2;3;3;je m attendais a ca;8;7;9;22
+26;Gfonce;Fmoyen;Gfonce_Fmoyen;3;tres_fonce,pas_assez_sucre;3;3;2;je m attendais a ca;5;7;9;22
+26;Gmoyen;Ffaible;Gmoyen_Ffaible;10;joli,bon,chocolat,bien_sucre;1;4;4;un peu decu;4;7;9;22
+26;Gmoyen;Fmoyen;Gmoyen_Fmoyen;10;joli,bon,chocolat,bien_sucre;5;3;2;un peu decu;2;7;9;22
+26;Gmoyen;Ffort;Gmoyen_Ffort;10;joli,bon,chocolat,bien_sucre;5;2;5;tres decu;2;7;9;22
+27;Gclair;Ffort;Gclair_Ffort;5;cafe;5;2;3;tres agreablement surpris;10;7;9;38
+27;Gclair;Ffaible;Gclair_Fmoyen;5;cafe;3;2;4;agreablement surpris;8;7;9;38
+27;Gclair;Fmoyen;Gclair_Ffaible;5;cafe;4;5;3;agreablement surpris;4;7;9;38
+27;Gfonce;Ffaible;Gfonce_Ffaible;6;chocolat_noir,belle_couleur;1;4;3;je m attendais a ca;7;7;9;38
+27;Gfonce;Fmoyen;Gfonce_Fmoyen;6;chocolat_noir,belle_couleur;4;3;2;tres agreablement surpris;9;7;9;38
+27;Gfonce;Ffort;Gfonce_Ffort;6;chocolat_noir,belle_couleur;4;3;4;un peu decu;3;7;9;38
+27;Gmoyen;Ffort;Gmoyen_Ffort;8;couleur_preferee;5;3;1;tres decu;1;7;9;38
+27;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;couleur_preferee;3;3;2;agreablement surpris;7;7;9;38
+27;Gmoyen;Ffaible;Gmoyen_Ffaible;8;couleur_preferee;3;3;2;tres agreablement surpris;9;7;9;38
+28;Gclair;Ffaible;Gclair_Ffaible;8;brillant,appetissant,cafe_au_lait;3;3;3;je m attendais a ca;6;8;12;75
+28;Gclair;Ffort;Gclair_Ffort;8;brillant,appetissant,cafe_au_lait;5;3;3;je m attendais a ca;7;8;12;75
+28;Gclair;Fmoyen;Gclair_Fmoyen;8;brillant,appetissant,cafe_au_lait;4;3;3;je m attendais a ca;5;8;12;75
+28;Gfonce;Ffort;Gfonce_Ffort;3;chocolat_noir,intense;1;4;3;un peu decu;6;8;12;75
+28;Gfonce;Ffaible;Gfonce_Ffaible;3;chocolat_noir,intense;1;5;3;un peu decu;6;8;12;75
+28;Gfonce;Fmoyen;Gfonce_Fmoyen;3;chocolat_noir,intense;1;5;3;un peu decu;7;8;12;75
+28;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chocolat_gourmand,tres_bon,aiguise_papilles,fait_saliver;1;5;3;un peu decu;5;8;12;75
+28;Gmoyen;Ffort;Gmoyen_Ffort;8;chocolat_gourmand,tres_bon,aiguise_papilles,fait_saliver;3;3;3;je m attendais a ca;6;8;12;75
+28;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chocolat_gourmand,tres_bon,aiguise_papilles,fait_saliver;3;3;3;je m attendais a ca;7;8;12;75
+29;Gclair;Ffort;Gclair_Ffort;8;j_aime,cafe_au_lait;4;2;2;tres decu;1;8;7;51
+29;Gclair;Fmoyen;Gclair_Fmoyen;8;j_aime,cafe_au_lait;3;3;3;agreablement surpris;10;8;7;51
+29;Gclair;Ffaible;Gclair_Ffaible;8;j_aime,cafe_au_lait;3;3;3;agreablement surpris;;8;7;51
+29;Gfonce;Fmoyen;Gfonce_Fmoyen;1;j_aime_pas,chocolat_noir;5;2;2;tres decu;4;8;7;51
+29;Gfonce;Ffort;Gfonce_Ffort;1;j_aime_pas,chocolat_noir;5;1;2;un peu decu;6;8;7;51
+29;Gfonce;Ffaible;Gfonce_Ffaible;1;j_aime_pas,chocolat_noir;3;3;3;agreablement surpris;10;8;7;51
+29;Gmoyen;Ffort;Gmoyen_Ffort;5;j_aime_pas,chocolat_noir;5;1;1;tres decu;0;8;7;51
+29;Gmoyen;Ffaible;Gmoyen_Ffaible;5;j_aime_pas,chocolat_noir;3;3;3;agreablement surpris;7;8;7;51
+29;Gmoyen;Fmoyen;Gmoyen_Fmoyen;5;j_aime_pas,chocolat_noir;3;3;3;je m attendais a ca;6;8;7;51
+30;Gclair;Fmoyen;Gclair_Fmoyen;4;caramel;3;3;2;tres agreablement surpris;6;5;6;33
+30;Gclair;Ffort;Gclair_Ffort;4;caramel;4;4;4;tres agreablement surpris;9;5;6;33
+30;Gclair;Ffaible;Gclair_Ffaible;4;caramel;2;3;2;agreablement surpris;5;5;6;33
+30;Gmoyen;Ffort;Gmoyen_Ffort;9;j_aime_bien,chocolat;4;4;3;tres agreablement surpris;7;5;6;33
+30;Gmoyen;Ffaible;Gmoyen_Ffaible;9;j_aime_bien,chocolat;3;3;3;agreablement surpris;9;5;6;33
+30;Gmoyen;Fmoyen;Gmoyen_Fmoyen;9;j_aime_bien,chocolat;4;4;2;agreablement surpris;6;5;6;33
+30;Gfonce;Ffaible;Gfonce_Ffaible;3;trop_noir,j_aime_pas;2;3;3;agreablement surpris;6;5;6;33
+30;Gfonce;Fmoyen;Gfonce_Fmoyen;3;trop_noir,j_aime_pas;4;4;3;tres agreablement surpris;7;5;6;33
+30;Gfonce;Ffort;Gfonce_Ffort;3;trop_noir,j_aime_pas;3;3;3;un peu decu;5;5;6;33
+31;Gclair;Ffaible;Gclair_Ffaible;5;cremeux,sucre,cafe,j_aime;2;1;5;un peu decu;10;8;6;46
+31;Gclair;Fmoyen;Gclair_Fmoyen;5;cremeux,sucre,cafe,j_aime;4;1;1;agreablement surpris;5;8;6;46
+31;Gclair;Ffort;Gclair_Ffort;5;cremeux,sucre,cafe,j_aime;5;1;4;tres agreablement surpris;10;8;6;46
+31;Gmoyen;Ffaible;Gmoyen_Ffaible;2;chocolat_noir,barque,j_aime_pas;1;3;2;un peu decu;9;8;6;46
+31;Gmoyen;Fmoyen;Gmoyen_Fmoyen;2;chocolat_noir,barque,j_aime_pas;2;4;5;je m attendais a ca;5;8;6;46
+31;Gmoyen;Ffort;Gmoyen_Ffort;2;chocolat_noir,barque,j_aime_pas;2;2;4;agreablement surpris;7;8;6;46
+31;Gfonce;Ffort;Gfonce_Ffort;10;chocolat_noir,vanille,creme;1;2;1;agreablement surpris;10;8;6;46
+31;Gfonce;Ffaible;Gfonce_Ffaible;10;chocolat_noir,vanille,creme;3;4;4;tres agreablement surpris;5;8;6;46
+31;Gfonce;Fmoyen;Gfonce_Fmoyen;10;chocolat_noir,vanille,creme;4;1;1;un peu decu;3;8;6;46
+32;Gclair;Ffaible;Gclair_Ffaible;7;caramel;3;2;4;un peu decu;5;2;11;48
+32;Gclair;Fmoyen;Gclair_Fmoyen;7;caramel;3;3;3;tres decu;4;2;11;48
+32;Gclair;Ffort;Gclair_Ffort;7;caramel;4;2;2;je m attendais a ca;6;2;11;48
+32;Gmoyen;Fmoyen;Gmoyen_Fmoyen;5;chocolat;2;3;3;je m attendais a ca;10;2;11;48
+32;Gmoyen;Ffaible;Gmoyen_Ffaible;5;chocolat;5;2;4;tres agreablement surpris;4;2;11;48
+32;Gmoyen;Ffort;Gmoyen_Ffort;5;chocolat;5;2;3;tres decu;3;2;11;48
+32;Gfonce;Fmoyen;Gfonce_Fmoyen;4;trop_de_chocolat,trop_peu_de_sucre;1;3;2;agreablement surpris;6;2;11;48
+32;Gfonce;Ffaible;Gfonce_Ffaible;4;trop_de_chocolat,trop_peu_de_sucre;2;2;3;je m attendais a ca;7;2;11;48
+32;Gfonce;Ffort;Gfonce_Ffort;4;trop_de_chocolat,trop_peu_de_sucre;5;1;4;tres decu;3;2;11;48
+32b;Gclair;Ffaible;Gclair_Ffaible;5;caramel,cafe,j_aime_pas;2;4;3;agreablement surpris;6;2;13;48
+32b;Gclair;Fmoyen;Gclair_Fmoyen;5;caramel,cafe,j_aime_pas;3;3;3;je m attendais a ca;7;2;13;48
+32b;Gclair;Ffort;Gclair_Ffort;5;caramel,cafe,j_aime_pas;4;4;2;un peu decu;4;2;13;48
+32b;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;beaucoup_de_chocolat,sucre;3;5;5;un peu decu;5;2;13;48
+32b;Gmoyen;Ffaible;Gmoyen_Ffaible;7;beaucoup_de_chocolat,sucre;4;5;5;tres decu;4;2;13;48
+32b;Gmoyen;Ffort;Gmoyen_Ffort;7;beaucoup_de_chocolat,sucre;4;3;1;un peu decu;2;2;13;48
+32b;Gfonce;Fmoyen;Gfonce_Fmoyen;5;trop_chocolat;3;3;2;agreablement surpris;5;2;13;48
+32b;Gfonce;Ffaible;Gfonce_Ffaible;5;trop_chocolat;2;3;3;je m attendais a ca;5;2;13;48
+32b;Gfonce;Ffort;Gfonce_Ffort;5;trop_chocolat;5;3;2;tres decu;2;2;13;48
+33;Gclair;Fmoyen;Gclair_Fmoyen;10;j_aime_beaucoup_de_cafe;4;3;4;je m attendais a ca;10;2;9;38
+33;Gclair;Ffaible;Gclair_Ffaible;10;j_aime_beaucoup_de_cafe;3;3;4;agreablement surpris;10;2;9;38
+33;Gclair;Ffort;Gclair_Ffort;10;j_aime_beaucoup_de_cafe;5;5;3;un peu decu;9;2;9;38
+33;Gmoyen;Fmoyen;Gmoyen_Fmoyen;10;beau,envie,chocolat;2;3;4;un peu decu;8;2;9;38
+33;Gmoyen;Ffaible;Gmoyen_Ffaible;10;beau,envie,chocolat;2;3;4;je m attendais a ca;9;2;9;38
+33;Gmoyen;Ffort;Gmoyen_Ffort;10;beau,envie,chocolat;4;3;3;un peu decu;7;2;9;38
+33;Gfonce;Ffort;Gfonce_Ffort;9;tres_chocolat,fondant,belle,bon;5;3;3;un peu decu;6;2;9;38
+33;Gfonce;Ffaible;Gfonce_Ffaible;9;tres_chocolat,fondant,belle,bon;1;3;4;un peu decu;5;2;9;38
+33;Gfonce;Fmoyen;Gfonce_Fmoyen;9;tres_chocolat,fondant,belle,bon;5;3;3;tres decu;5;2;9;38
+34;Gclair;Fmoyen;Gclair_Fmoyen;8;j_aime,attirant,cafe,caramel;3;4;4;un peu decu;4;5;22;50
+34;Gclair;Ffort;Gclair_Ffort;8;j_aime,attirant,cafe,caramel;4;2;3;un peu decu;3;5;22;50
+34;Gclair;Ffaible;Gclair_Ffaible;8;j_aime,attirant,cafe,caramel;3;4;4;un peu decu;5;5;22;50
+34;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;j_aime,chocolat_au_lait;3;3;4;je m attendais a ca;6;5;22;50
+34;Gmoyen;Ffort;Gmoyen_Ffort;8;j_aime,chocolat_au_lait;4;2;3;agreablement surpris;8;5;22;50
+34;Gmoyen;Ffaible;Gmoyen_Ffaible;8;j_aime,chocolat_au_lait;2;5;5;tres decu;3;5;22;50
+34;Gfonce;Ffaible;Gfonce_Ffaible;6;chocolat_noir;1;4;4;un peu decu;6;5;22;50
+34;Gfonce;Fmoyen;Gfonce_Fmoyen;6;chocolat_noir;3;3;3;je m attendais a ca;8;5;22;50
+34;Gfonce;Ffort;Gfonce_Ffort;6;chocolat_noir;4;2;4;agreablement surpris;8;5;22;50
+34b;Gclair;Fmoyen;Gclair_Fmoyen;5;pas_attirant,manque_de_peps,caramel,fade;4;4;3;un peu decu;6;5;22;50
+34b;Gclair;Ffort;Gclair_Ffort;5;pas_attirant,manque_de_peps,caramel,fade;4;2;4;tres decu;2;5;22;50
+34b;Gclair;Ffaible;Gclair_Ffaible;5;pas_attirant,manque_de_peps,caramel,fade;2;3;2;un peu decu;5;5;22;50
+34b;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;chocolat_au_lait,nutella,pralin,appetissant;3;3;4;agreablement surpris;8;5;22;50
+34b;Gmoyen;Ffort;Gmoyen_Ffort;7;chocolat_au_lait,nutella,pralin,appetissant;4;2;2;un peu decu;5;5;22;50
+34b;Gmoyen;Ffaible;Gmoyen_Ffaible;7;chocolat_au_lait,nutella,pralin,appetissant;3;3;3;agreablement surpris;8;5;22;50
+34b;Gfonce;Ffaible;Gfonce_Ffaible;6;tres_chocolat,peu_sucre,fin;3;3;3;agreablement surpris;8;5;22;50
+34b;Gfonce;Fmoyen;Gfonce_Fmoyen;6;tres_chocolat,peu_sucre,fin;3;3;3;tres agreablement surpris;9;5;22;50
+34b;Gfonce;Ffort;Gfonce_Ffort;6;tres_chocolat,peu_sucre,fin;5;2;2;un peu decu;5;5;22;50

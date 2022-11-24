@@ -1,0 +1,541 @@
+Conso;Glacage;Fourrage;Eclair;App glacage;Evocation glacage;Attentes gustatives;Int Chocolat;Sucre;Lait;Amer;Ressenti;Liking;Sexe;Age;CSP;Conso Patisseries;Attrait Patisseries;Difficulte Epreuve
+1;Gfonce;Ffaible;Gfonce_Ffaible;8;chocolat,mat;doux,compact;1;3;4;3;decu;6;F;18/24;etudiants;occasionnellement;7;2
+1;Gfonce;Ffort;Gfonce_Ffort;8;chocolat,mat;doux,compact;4;3;2;4;agreablement surpris;9;F;18/24;etudiants;occasionnellement;7;2
+1;Gfonce;Fmoyen;Gfonce_Fmoyen;8;chocolat,mat;doux,compact;2;3;4;3;je m attendais a ca;7;F;18/24;etudiants;occasionnellement;7;2
+1;Gmoyen;Ffaible;Gclair_Ffaible;9;chocolat_au_lait,caramel;lait,sucre;3;3;3;3;je m attendais a ca;7;F;18/24;etudiants;occasionnellement;7;2
+1;Gmoyen;Ffort;Gclair_Ffort;9;chocolat_au_lait,caramel;lait,sucre;4;3;3;3;agreablement surpris;9;F;18/24;etudiants;occasionnellement;7;2
+1;Gmoyen;Fmoyen;Gclair_Fmoyen;9;chocolat_au_lait,caramel;lait,sucre;2;4;4;3;decu;4;F;18/24;etudiants;occasionnellement;7;2
+1;Gclair;Ffort;Gmoyen_Ffort;3;cafe,caramel,lait;acidupeu_sucre;2;3;3;2;agreablement surpris;8;F;18/24;etudiants;occasionnellement;7;2
+1;Gclair;Fmoyen;Gmoyen_Fmoyen;3;cafe,caramel,lait;acidupeu_sucre;3;3;2;3;je m attendais a ca;6;F;18/24;etudiants;occasionnellement;7;2
+1;Gclair;Ffaible;Gmoyen_Ffaible;3;cafe,caramel,lait;acidupeu_sucre;1;4;4;2;tres decu;3;F;18/24;etudiants;occasionnellement;7;2
+2;Gfonce;Ffaible;Gfonce_Ffaible;8;chocolat;moelleux,cremeux,chocolate;2;3;3;3;decu;6;M;18/24;etudiants;occasionnellement;8;2
+2;Gfonce;Ffort;Gfonce_Ffort;8;chocolat;moelleux,cremeux,chocolate;2;3;5;3;decu;5;M;18/24;etudiants;occasionnellement;8;2
+2;Gfonce;Fmoyen;Gfonce_Fmoyen;8;chocolat;moelleux,cremeux,chocolate;2;3;3;3;decu;6;M;18/24;etudiants;occasionnellement;8;2
+2;Gmoyen;Ffaible;Gclair_Ffaible;7;chocolat_au_lait;moelleux,chocolate,sucre,cremeux;2;3;4;3;je m attendais a ca;6;M;18/24;etudiants;occasionnellement;8;2
+2;Gmoyen;Ffort;Gclair_Ffort;7;chocolat_au_lait;moelleux,chocolate,sucre,cremeux;3;3;3;3;agreablement surpris;8;M;18/24;etudiants;occasionnellement;8;2
+2;Gmoyen;Fmoyen;Gclair_Fmoyen;7;chocolat_au_lait;moelleux,chocolate,sucre,cremeux;3;3;3;3;agreablement surpris;8;M;18/24;etudiants;occasionnellement;8;2
+2;Gclair;Ffort;Gmoyen_Ffort;7;cafe;cafe,moelleux,cremeux;2;3;4;3;decu;5;M;18/24;etudiants;occasionnellement;8;2
+2;Gclair;Fmoyen;Gmoyen_Fmoyen;7;cafe;cafe,moelleux,cremeux;2;3;4;3;decu;4;M;18/24;etudiants;occasionnellement;8;2
+2;Gclair;Ffaible;Gmoyen_Ffaible;7;cafe;cafe,moelleux,cremeux;2;3;3;3;decu;6;M;18/24;etudiants;occasionnellement;8;2
+3;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chaleur,douceur,chocolat_au_lait;tres_sucre,pas,d,amer,chocolat_peu_prononce;2;3;3;3;je m attendais a ca;3;F;35/49;professions liberales et cadres superieurs;regulierement;10;6
+3;Gmoyen;Ffort;Gmoyen_Ffort;8;chaleur,douceur,chocolat_au_lait;tres_sucre,pas,d,amer,chocolat_peu_prononce;3;2;3;4;agreablement surpris;6;F;35/49;professions liberales et cadres superieurs;regulierement;10;6
+3;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chaleur,douceur,chocolat_au_lait;tres_sucre,pas,d,amer,chocolat_peu_prononce;3;3;3;4;agreablement surpris;7;F;35/49;professions liberales et cadres superieurs;regulierement;10;6
+3;Gfonce;Ffort;Gfonce_Ffort;3;amer,manque_de_sucre,intense;intense,chocolat,amer;3;3;3;3;je m attendais a ca;6;F;35/49;professions liberales et cadres superieurs;regulierement;10;6
+3;Gfonce;Ffaible;Gfonce_Ffaible;3;amer,manque_de_sucre,intense;intense,chocolat,amer;2;4;3;2;decu;3;F;35/49;professions liberales et cadres superieurs;regulierement;10;6
+3;Gfonce;Fmoyen;Gfonce_Fmoyen;3;amer,manque_de_sucre,intense;intense,chocolat,amer;2;3;3;2;je m attendais a ca;5;F;35/49;professions liberales et cadres superieurs;regulierement;10;6
+3;Gclair;Fmoyen;Gclair_Fmoyen;0;cafe,caramel,sucre;sans_chocolat,tres_sucre;4;3;3;4;agreablement surpris;4;F;35/49;professions liberales et cadres superieurs;regulierement;10;6
+3;Gclair;Ffaible;Gclair_Ffaible;0;cafe,caramel,sucre;sans_chocolat,tres_sucre;3;3;3;3;je m attendais a ca;4;F;35/49;professions liberales et cadres superieurs;regulierement;10;6
+3;Gclair;Ffort;Gclair_Ffort;0;cafe,caramel,sucre;sans_chocolat,tres_sucre;5;2;3;5;agreablement surpris;7;F;35/49;professions liberales et cadres superieurs;regulierement;10;6
+4;Gmoyen;Ffaible;Gmoyen_Ffaible;9;chocolat,gourmand;gourmand,creme,chocolat,savoureuse,avec,texture,exterieure,equilibre,moelleux,gout,chocolat;2;3;3;3;je m attendais a ca;6;F;18/24;etudiants;regulierement;10;3
+4;Gmoyen;Ffort;Gmoyen_Ffort;9;chocolat,gourmand;gourmand,creme,chocolat,savoureuse,avec,texture,exterieure,equilibre,moelleux,gout,chocolat;3;3;3;3;agreablement surpris;7;F;18/24;etudiants;regulierement;10;3
+4;Gmoyen;Fmoyen;Gmoyen_Fmoyen;9;chocolat,gourmand;gourmand,creme,chocolat,savoureuse,texture,exterieure,equilibre,moelleux,gout,chocolat;2;2;3;3;je m attendais a ca;6;F;18/24;etudiants;regulierement;10;3
+4;Gfonce;Ffort;Gfonce_Ffort;7;chocolat_noir,intense,aromes;chocolat_noir,fort,amer;2;4;3;2;decu;4;F;18/24;etudiants;regulierement;10;3
+4;Gfonce;Ffaible;Gfonce_Ffaible;7;chocolat_noir,intense,aromes;chocolat_noir,fort,amer;3;3;4;2;decu;4;F;18/24;etudiants;regulierement;10;3
+4;Gfonce;Fmoyen;Gfonce_Fmoyen;7;chocolat_noir,intense,aromes;chocolat_noir,fort,amer;3;3;3;2;je m attendais a ca;5;F;18/24;etudiants;regulierement;10;3
+4;Gclair;Fmoyen;Gclair_Fmoyen;7;cafe;cafe,amer;3;2;3;2;agreablement surpris;6;F;18/24;etudiants;regulierement;10;3
+4;Gclair;Ffaible;Gclair_Ffaible;7;cafe;cafe,amer;2;5;4;2;tres decu;2;F;18/24;etudiants;regulierement;10;3
+4;Gclair;Ffort;Gclair_Ffort;7;cafe;cafe,amer;4;4;3;2;tres decu;3;F;18/24;etudiants;regulierement;10;3
+5;Gmoyen;Fmoyen;Gmoyen_Fmoyen;3;chocolat_au_lait,pas_gourmand,pas_intense;chocolat,prononce,long_en_bouche,pas,tres_sucre,moelleux;2;3;3;2;decu;4;M;50/64;cadres moyen;regulierement;10;7
+5;Gmoyen;Ffort;Gmoyen_Ffort;3;chocolat_au_lait,pas_gourmand,pas_intense;chocolat,prononce,long_en_bouche,pas,tres_sucre,moelleux;3;4;3;3;agreablement surpris;7;M;50/64;cadres moyen;regulierement;10;7
+5;Gmoyen;Ffaible;Gmoyen_Ffaible;3;chocolat_au_lait,pas_gourmand,pas_intense;chocolat,prononce,long_en_bouche,pas,tres_sucre,moelleux;3;3;3;3;agreablement surpris;9;M;50/64;cadres moyen;regulierement;10;7
+5;Gclair;Ffort;Gclair_Ffort;0;eclair,cafe,peu_genereux,pas_joli;gout,chocolat,long,chocolat,persistant,pas,sucre,onctueux;1;4;3;2;decu;2;M;50/64;cadres moyen;regulierement;10;7
+5;Gclair;Ffaible;Gclair_Ffaible;0;eclair,cafe,peu_genereux,pas_joli;gout,chocolat,long,chocolat,persistant,pas,sucre,onctueux;1;3;3;1;decu;1;M;50/64;cadres moyen;regulierement;10;7
+5;Gclair;Fmoyen;Gclair_Fmoyen;0;eclair,cafe,peu_genereux,pas_joli;gout,chocolat,long,chocolat,persistant,pas,sucre,onctueux;1;5;3;1;decu;1;M;50/64;cadres moyen;regulierement;10;7
+5;Gfonce;Ffort;Gfonce_Ffort;10;chocolat_noir,gourmand,envie;fort_gout_chocolat,onctuosite,amer,pas_trop_sucre;2;3;3;3;je m attendais a ca;5;M;50/64;cadres moyen;regulierement;10;7
+5;Gfonce;Ffaible;Gfonce_Ffaible;10;chocolat_noir,gourmand,envie;fort_gout_chocolat,onctuosite,amer,pas_trop_sucre;4;3;3;3;je m attendais a ca;6;M;50/64;cadres moyen;regulierement;10;7
+5;Gfonce;Fmoyen;Gfonce_Fmoyen;10;chocolat_noir,gourmand,envie;fort_gout_chocolat,onctuosite,amer,pas_trop_sucre;3;3;3;3;agreablement surpris;9;M;50/64;cadres moyen;regulierement;10;7
+6;Gmoyen;Fmoyen;Gmoyen_Fmoyen;6;peu_chocolate,tres_sucre,trop_pale;equilibre,chocolat,amer,fondant;3;4;3;2;je m attendais a ca;3;F;35/49;professions liberales et cadres superieurs;occasionnellement;7;3
+6;Gmoyen;Ffort;Gmoyen_Ffort;6;peu_chocolate,tres_sucre,trop_pale;equilibre,chocolat,amer,fondant;3;4;3;3;agreablement surpris;6;F;35/49;professions liberales et cadres superieurs;occasionnellement;7;3
+6;Gmoyen;Ffaible;Gmoyen_Ffaible;6;peu_chocolate,tres_sucre,trop_pale;equilibre,chocolat,amer,fondant;3;4;3;3;agreablement surpris;6;F;35/49;professions liberales et cadres superieurs;occasionnellement;7;3
+6;Gclair;Ffort;Gclair_Ffort;0;cafe,caramel,pas_de_chocolat;sucre,essentiellement,peu_chocolate;1;4;3;1;decu;0;F;35/49;professions liberales et cadres superieurs;occasionnellement;7;3
+6;Gclair;Ffaible;Gclair_Ffaible;0;cafe,caramel,pas_de_chocolat;sucre,essentiellement,peu_chocolate;2;5;3;1;decu;0;F;35/49;professions liberales et cadres superieurs;occasionnellement;7;3
+6;Gclair;Fmoyen;Gclair_Fmoyen;0;cafe,caramel,pas_de_chocolat;sucre,essentiellement,peu_chocolate;3;4;3;2;decu;1;F;35/49;professions liberales et cadres superieurs;occasionnellement;7;3
+6;Gfonce;Ffort;Gfonce_Ffort;10;intense,chocolat,amer;gout,chocolat,marque,peu_sucre,intense,en,sensation;3;4;3;2;decu;6;F;35/49;professions liberales et cadres superieurs;occasionnellement;7;3
+6;Gfonce;Ffaible;Gfonce_Ffaible;10;intense,chocolat,amer;gout,chocolat,marque,peu_sucre,intense,en,sensation;3;4;3;2;decu;6;F;35/49;professions liberales et cadres superieurs;occasionnellement;7;3
+6;Gfonce;Fmoyen;Gfonce_Fmoyen;10;intense,chocolat,amer;gout,chocolat,marque,peu_sucre,intense,en,sensation;3;3;3;3;je m attendais a ca;9;F;35/49;professions liberales et cadres superieurs;occasionnellement;7;3
+7;Gfonce;Fmoyen;Gfonce_Fmoyen;8;intense,fort_en_chocolat,fort_en_cacao,classique;gout,chocolat,prononce,intense,fort_en_cacao,peu_sucre;3;4;4;2;decu;6;F;18/24;etudiants;regulierement;10;3
+7;Gfonce;Ffort;Gfonce_Ffort;8;intense,fort_en_chocolat,fort_en_cacao,classique;gout,chocolat,prononce,intense,fort_en_cacao,peu_sucre;1;5;5;1;tres decu;2;F;18/24;etudiants;regulierement;10;3
+7;Gfonce;Ffaible;Gfonce_Ffaible;8;intense,fort_en_chocolat,fort_en_cacao,classique;gout,chocolat,prononce,intense,fort_en_cacao,peu_sucre;1;4;5;1;decu;4;F;18/24;etudiants;regulierement;10;3
+7;Gclair;Fmoyen;Gclair_Fmoyen;6;chocolat_au_lait,cafe,indefinie;chocolat_au_lait,assez,sucre,gout,relativement,intense;3;4;3;3;je m attendais a ca;3;F;18/24;etudiants;regulierement;10;3
+7;Gclair;Ffaible;Gclair_Ffaible;6;chocolat_au_lait,cafe,indefinie;chocolat_au_lait,assez,sucre,gout,relativement,intense;4;3;2;4;agreablement surpris;7;F;18/24;etudiants;regulierement;10;3
+7;Gclair;Ffort;Gclair_Ffort;6;chocolat_au_lait,cafe,indefinie;chocolat_au_lait,assez,sucre,gout,relativement,intense;2;3;5;3;decu;3;F;18/24;etudiants;regulierement;10;3
+7;Gmoyen;Fmoyen;Gmoyen_Fmoyen;4;eclair_au_cafe;fourrage,au,cafe,chocolat_au_lait,tres_sucre,tres_lacte;5;2;2;4;tres agreablement surpris;9;F;18/24;etudiants;regulierement;10;3
+7;Gmoyen;Ffort;Gmoyen_Ffort;4;eclair_au_cafe;fourrage,au,cafe,chocolat_au_lait,tres_sucre,tres_lacte;3;3;3;3;je m attendais a ca;3;F;18/24;etudiants;regulierement;10;3
+7;Gmoyen;Ffaible;Gmoyen_Ffaible;4;eclair_au_cafe;fourrage,au,cafe,chocolat_au_lait,tres_sucre,tres_lacte;2;4;3;3;decu;1;F;18/24;etudiants;regulierement;10;3
+8;Gfonce;Fmoyen;Gfonce_Fmoyen;8;chocolat,fondu,caramel,oncteux;sucrosite,croquant,tres_moelleux,fraicheur,de,creme,tres_sucre,collant,amer;3;3;3;3;agreablement surpris;8;F;18/24;etudiants;regulierement;9;8
+8;Gfonce;Ffort;Gfonce_Ffort;8;chocolat,fondu,caramel,oncteux;sucrosite,croquant,tres_moelleux,fraicheur,de,creme,tres_sucre,collant,amer;4;3;4;3;agreablement surpris;8;F;18/24;etudiants;regulierement;9;8
+8;Gfonce;Ffaible;Gfonce_Ffaible;8;chocolat,fondu,caramel,oncteux;sucrosite,croquant,tres_moelleux,fraicheur,de,creme,tres_sucre,collant,amer;2;3;3;2;je m attendais a ca;6;F;18/24;etudiants;regulierement;9;8
+8;Gclair;Fmoyen;Gclair_Fmoyen;8;caramel,fondant,cafe_au_lait;sucre,peu_amer,cafe,caramel,peu_intense;3;3;3;3;agreablement surpris;9;F;18/24;etudiants;regulierement;9;8
+8;Gclair;Ffaible;Gclair_Ffaible;8;caramel,fondant,cafe_au_lait;sucre,peu_amer,cafe,caramel,peu_intense;4;4;4;4;decu;5;F;18/24;etudiants;regulierement;9;8
+8;Gclair;Ffort;Gclair_Ffort;8;caramel,fondant,cafe_au_lait;sucre,peu_amer,cafe,caramel,peu_intense;3;3;3;3;je m attendais a ca;8;F;18/24;etudiants;regulierement;9;8
+8;Gmoyen;Fmoyen;Gmoyen_Fmoyen;5;cafe_au_lait,vanille,caramel;lacte,peu_amer,gout,cafe,sucre,peu_intense;4;3;2;3;agreablement surpris;7;F;18/24;etudiants;regulierement;9;8
+8;Gmoyen;Ffort;Gmoyen_Ffort;5;cafe_au_lait,vanille,caramel;lacte,peu_amer,gout,cafe,sucre,peu_intense;3;3;3;3;je m attendais a ca;8;F;18/24;etudiants;regulierement;9;8
+8;Gmoyen;Ffaible;Gmoyen_Ffaible;5;cafe_au_lait,vanille,caramel;lacte,peu_amer,gout,cafe,sucre,peu_intense;3;4;4;4;decu;5;F;18/24;etudiants;regulierement;9;8
+9;Gclair;Ffaible;Gclair_Ffaible;7;cafe,chocolat_au_lait;gout,chocolat,peu,marque,peu_sucre;3;4;3;2;je m attendais a ca;4;F;25/34;cadres moyen;regulierement;9;3
+9;Gclair;Fmoyen;Gclair_Fmoyen;7;cafe,chocolat_au_lait;gout,chocolat,peu,marque,peu_sucre;3;4;3;3;je m attendais a ca;5;F;25/34;cadres moyen;regulierement;9;3
+9;Gclair;Ffort;Gclair_Ffort;7;cafe,chocolat_au_lait;gout,chocolat,peu,marque,peu_sucre;4;3;2;4;decu;3;F;25/34;cadres moyen;regulierement;9;3
+9;Gfonce;Fmoyen;Gfonce_Fmoyen;8;chocolat_noir,corse;gout,fort_en_chocolat,peu_sucre,peu_amer;3;4;3;2;je m attendais a ca;8;F;25/34;cadres moyen;regulierement;9;3
+9;Gfonce;Ffaible;Gfonce_Ffaible;8;chocolat_noir,corse;gout,fort_en_chocolat,peu_sucre,peu_amer;2;4;4;2;decu;7;F;25/34;cadres moyen;regulierement;9;3
+9;Gfonce;Ffort;Gfonce_Ffort;8;chocolat_noir,corse;gout,fort_en_chocolat,peu_sucre,peu_amer;3;3;3;3;je m attendais a ca;7;F;25/34;cadres moyen;regulierement;9;3
+9;Gmoyen;Fmoyen;Gmoyen_Fmoyen;9;eclair_au_chocolat,classique,pas_trop_amer;eclair,avec,vrai,gout,de,chocolat,pas_amer,pas_trop_sucre;3;3;3;3;agreablement surpris;9;F;25/34;cadres moyen;regulierement;9;3
+9;Gmoyen;Ffort;Gmoyen_Ffort;9;eclair_au_chocolat,classique,pas_trop_amer;eclair,avec,vrai,gout,de,chocolat,pas_amer,pas_trop_sucre;4;2;2;4;tres decu;2;F;25/34;cadres moyen;regulierement;9;3
+9;Gmoyen;Ffaible;Gmoyen_Ffaible;9;eclair_au_chocolat,classique,pas_trop_amer;eclair,avec,vrai,gout,de,chocolat,pas_amer,pas_trop_sucre;2;3;3;3;je m attendais a ca;7;F;25/34;cadres moyen;regulierement;9;3
+10;Gclair;Ffaible;Gclair_Ffaible;2;cafe_au_lait,peu_de_caramel;surprise;1;4;3;4;decu;2;F;50/64;employes;occasionnellement;3;7
+10;Gclair;Fmoyen;Gclair_Fmoyen;2;cafe_au_lait,peu_de_caramel;surprise;3;4;3;3;je m attendais a ca;6;F;50/64;employes;occasionnellement;3;7
+10;Gclair;Ffort;Gclair_Ffort;2;cafe_au_lait,peu_de_caramel;surprise;2;4;3;2;decu;2;F;50/64;employes;occasionnellement;3;7
+10;Gfonce;Fmoyen;Gfonce_Fmoyen;10;chocolat;veritable,eclair,au,chocolat,peu_amer;2;4;4;2;decu;3;F;50/64;employes;occasionnellement;3;7
+10;Gfonce;Ffaible;Gfonce_Ffaible;10;chocolat;veritable,eclair,au,chocolat,peu_amer;2;4;4;2;decu;2;F;50/64;employes;occasionnellement;3;7
+10;Gfonce;Ffort;Gfonce_Ffort;10;chocolat;veritable,eclair,au,chocolat,peu_amer;3;4;3;2;decu;3;F;50/64;employes;occasionnellement;3;7
+10;Gmoyen;Fmoyen;Gmoyen_Fmoyen;5;chocolat_au_lait,pas_assez_fonce;pas_assez_d_amer;3;4;3;2;agreablement surpris;7;F;50/64;employes;occasionnellement;3;7
+10;Gmoyen;Ffort;Gmoyen_Ffort;5;chocolat_au_lait,pas_assez_fonce;pas_assez_d_amer;3;4;4;2;decu;2;F;50/64;employes;occasionnellement;3;7
+10;Gmoyen;Ffaible;Gmoyen_Ffaible;5;chocolat_au_lait,pas_assez_fonce;pas_assez_d_amer;1;4;3;2;decu;4;F;50/64;employes;occasionnellement;3;7
+11;Gmoyen;Ffort;Gmoyen_Ffort;8;chocolat_noir,fort;amer,sucre,moelleux;2;4;3;3;agreablement surpris;6;M;18/24;etudiants;regulierement;8;6
+11;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chocolat_noir,fort;amer,sucre,moelleux;2;3;4;2;decu;5;M;18/24;etudiants;regulierement;8;6
+11;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chocolat_noir,fort;amer,sucre,moelleux;2;4;4;1;decu;3;M;18/24;etudiants;regulierement;8;6
+11;Gfonce;Ffaible;Gfonce_Ffaible;5;chocolat_tres_noir,+90%cacao;amer,manque_de_sucre;1;4;4;1;decu;3;M;18/24;etudiants;regulierement;8;6
+11;Gfonce;Fmoyen;Gfonce_Fmoyen;5;chocolat_tres_noir,+90%cacao;amer,manque_de_sucre;3;4;4;3;agreablement surpris;7;M;18/24;etudiants;regulierement;8;6
+11;Gfonce;Ffort;Gfonce_Ffort;5;chocolat_tres_noir,+90%cacao;amer,manque_de_sucre;3;3;3;3;je m attendais a ca;9;M;18/24;etudiants;regulierement;8;6
+11;Gclair;Ffaible;Gclair_Ffaible;2;caramel,sucre;caramel,au,beurre_sale,cafe,doux,lacte;4;5;2;3;decu;4;M;18/24;etudiants;regulierement;8;6
+11;Gclair;Ffort;Gclair_Ffort;2;caramel,sucre;caramel,au,beurre_sale,cafe,doux,lacte;4;2;2;4;decu;4;M;18/24;etudiants;regulierement;8;6
+11;Gclair;Fmoyen;Gclair_Fmoyen;2;caramel,sucre;caramel,au,beurre_sale,cafe,doux,lacte;3;4;3;3;agreablement surpris;8;M;18/24;etudiants;regulierement;8;6
+12;Gmoyen;Ffort;Gmoyen_Ffort;10;classique,appetissant;chocolat_au_lait,intense,pas_trop_sucre;3;4;3;3;je m attendais a ca;7;F;18/24;etudiants;occasionnellement;10;2
+12;Gmoyen;Ffaible;Gmoyen_Ffaible;10;classique,appetissant;chocolat_au_lait,intense,pas_trop_sucre;3;4;3;3;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;10;2
+12;Gmoyen;Fmoyen;Gmoyen_Fmoyen;10;classique,appetissant;chocolat_au_lait,intense,pas_trop_sucre;3;3;3;3;agreablement surpris;9;F;18/24;etudiants;occasionnellement;10;2
+12;Gfonce;Ffaible;Gfonce_Ffaible;8;chocolat_noir,fort;peu_sucre,assez,amer,chocolat_noir;2;3;3;2;decu;6;F;18/24;etudiants;occasionnellement;10;2
+12;Gfonce;Fmoyen;Gfonce_Fmoyen;8;chocolat_noir,fort;peu_sucre,assez,amer,chocolat_noir;3;3;3;3;agreablement surpris;9;F;18/24;etudiants;occasionnellement;10;2
+12;Gfonce;Ffort;Gfonce_Ffort;8;chocolat_noir,fort;peu_sucre,assez,amer,chocolat_noir;3;2;2;3;decu;7;F;18/24;etudiants;occasionnellement;10;2
+12;Gclair;Ffaible;Gclair_Ffaible;4;cafe,caramel;sucre,fort,chocolat,peu_intense,peu_amer;4;2;3;4;tres agreablement surpris;8;F;18/24;etudiants;occasionnellement;10;2
+12;Gclair;Ffort;Gclair_Ffort;4;cafe,caramel;sucre,fort,chocolat,peu_intense,peu_amer;4;2;3;4;agreablement surpris;8;F;18/24;etudiants;occasionnellement;10;2
+12;Gclair;Fmoyen;Gclair_Fmoyen;4;cafe,caramel;sucre,fort,chocolat,peu_intense,peu_amer;3;3;3;3;je m attendais a ca;6;F;18/24;etudiants;occasionnellement;10;2
+13;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;sucre,chocolat;chocolate,douceur,sucre;4;3;2;3;agreablement surpris;7;F;18/24;autre: recherche d'emploi;regulierement;8;7
+13;Gmoyen;Ffaible;Gmoyen_Ffaible;7;sucre,chocolat;chocolate,douceur,sucre;3;4;4;2;decu;5;F;18/24;autre: recherche d'emploi;regulierement;8;7
+13;Gmoyen;Ffort;Gmoyen_Ffort;7;sucre,chocolat;chocolate,douceur,sucre;5;3;2;4;decu;4;F;18/24;autre: recherche d'emploi;regulierement;8;7
+13;Gclair;Ffaible;Gclair_Ffaible;3;praline,noisette,caramel,cafe;cafe;3;3;3;2;je m attendais a ca;7;F;18/24;autre: recherche d'emploi;regulierement;8;7
+13;Gclair;Fmoyen;Gclair_Fmoyen;3;praline,noisette,caramel,cafe;cafe;3;4;3;3;je m attendais a ca;7;F;18/24;autre: recherche d'emploi;regulierement;8;7
+13;Gclair;Ffort;Gclair_Ffort;3;praline,noisette,caramel,cafe;cafe;3;3;2;3;je m attendais a ca;7;F;18/24;autre: recherche d'emploi;regulierement;8;7
+13;Gfonce;Ffort;Gfonce_Ffort;8;chocolat,force,noir;chocolat,puissant,intense;4;3;2;5;decu;3;F;18/24;autre: recherche d'emploi;regulierement;8;7
+13;Gfonce;Ffaible;Gfonce_Ffaible;8;chocolat,force,noir;chocolat,puissant,intense;3;4;3;3;agreablement surpris;8;F;18/24;autre: recherche d'emploi;regulierement;8;7
+13;Gfonce;Fmoyen;Gfonce_Fmoyen;8;chocolat,force,noir;chocolat,puissant,intense;3;3;3;3;tres agreablement surpris;9;F;18/24;autre: recherche d'emploi;regulierement;8;7
+14;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;gourmand,chocolat,sucre;caoutchouteux,sucre;2;3;3;2;je m attendais a ca;7;M;18/24;autre: recherche d'emploi;occasionnellement;7;6
+14;Gmoyen;Ffaible;Gmoyen_Ffaible;8;gourmand,chocolat,sucre;caoutchouteux,sucre;3;4;3;3;agreablement surpris;8;M;18/24;autre: recherche d'emploi;occasionnellement;7;6
+14;Gmoyen;Ffort;Gmoyen_Ffort;8;gourmand,chocolat,sucre;caoutchouteux,sucre;5;2;3;4;tres decu;4;M;18/24;autre: recherche d'emploi;occasionnellement;7;6
+14;Gclair;Ffaible;Gclair_Ffaible;4;cafe,amer,gourmand;forte_amer,de,cafe,sucre;4;3;3;5;decu;6;M;18/24;autre: recherche d'emploi;occasionnellement;7;6
+14;Gclair;Fmoyen;Gclair_Fmoyen;4;cafe,amer,gourmand;forte_amer,de,cafe,sucre;4;4;3;3;decu;7;M;18/24;autre: recherche d'emploi;occasionnellement;7;6
+14;Gclair;Ffort;Gclair_Ffort;4;cafe,amer,gourmand;forte_amer,de,cafe,sucre;4;2;3;2;decu;6;M;18/24;autre: recherche d'emploi;occasionnellement;7;6
+14;Gfonce;Ffort;Gfonce_Ffort;1;chocolat_noir;amer,intense,en,chocolat_noir;5;2;3;5;je m attendais a ca;2;M;18/24;autre: recherche d'emploi;occasionnellement;7;6
+14;Gfonce;Ffaible;Gfonce_Ffaible;1;chocolat_noir;amer,intense,en,chocolat_noir;2;4;3;2;agreablement surpris;6;M;18/24;autre: recherche d'emploi;occasionnellement;7;6
+14;Gfonce;Fmoyen;Gfonce_Fmoyen;1;chocolat_noir;amer,intense,en,chocolat_noir;4;3;3;3;je m attendais a ca;4;M;18/24;autre: recherche d'emploi;occasionnellement;7;6
+15;Gclair;Ffaible;Gclair_Ffaible;7;gout,cafe;fraicheur,sucre,fondante;4;4;4;3;je m attendais a ca;4;F;18/24;etudiants;occasionnellement;4;6
+15;Gclair;Fmoyen;Gclair_Fmoyen;7;gout,cafe;fraicheur,sucre,fondante;5;4;3;3;agreablement surpris;5;F;18/24;etudiants;occasionnellement;4;6
+15;Gclair;Ffort;Gclair_Ffort;7;gout,cafe;fraicheur,sucre,fondante;2;4;2;4;decu;2;F;18/24;etudiants;occasionnellement;4;6
+15;Gfonce;Ffort;Gfonce_Ffort;8;chocolat_noir;sucre,fondant,fraicheur,forte_intense_en_chocolat;2;4;4;4;je m attendais a ca;7;F;18/24;etudiants;occasionnellement;4;6
+15;Gfonce;Ffaible;Gfonce_Ffaible;8;chocolat_noir;sucre,fondant,fraicheur,forte_intense_en_chocolat;3;3;3;3;agreablement surpris;10;F;18/24;etudiants;occasionnellement;4;6
+15;Gfonce;Fmoyen;Gfonce_Fmoyen;8;chocolat_noir;sucre,fondant,fraicheur,forte_intense_en_chocolat;3;4;3;4;agreablement surpris;7;F;18/24;etudiants;occasionnellement;4;6
+15;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chocolat_au_lait;sucre,chocolat_au_lait,fondant,cremeux;3;3;3;3;je m attendais a ca;9;F;18/24;etudiants;occasionnellement;4;6
+15;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chocolat_au_lait;sucre,chocolat_au_lait,fondant,cremeux;4;4;3;3;agreablement surpris;5;F;18/24;etudiants;occasionnellement;4;6
+15;Gmoyen;Ffort;Gmoyen_Ffort;8;chocolat_au_lait;sucre,chocolat_au_lait,fondant,cremeux;5;4;3;4;decu;2;F;18/24;etudiants;occasionnellement;4;6
+16;Gclair;Ffaible;Gclair_Ffaible;9;cafe,praline;cafe,praline,sucre;4;3;3;3;decu;8;F;18/24;etudiants;regulierement;8;8
+16;Gclair;Fmoyen;Gclair_Fmoyen;9;cafe,praline;cafe,praline,sucre;4;2;3;3;decu;8;F;18/24;etudiants;regulierement;8;8
+16;Gclair;Ffort;Gclair_Ffort;9;cafe,praline;cafe,praline,sucre;2;2;4;3;decu;6;F;18/24;etudiants;regulierement;8;8
+16;Gfonce;Ffort;Gfonce_Ffort;10;tres_chocolate,peu_amer,fourrage,intense;fort_en_chocolat,amer;1;3;4;2;decu;6;F;18/24;etudiants;regulierement;8;8
+16;Gfonce;Ffaible;Gfonce_Ffaible;10;tres_chocolate,peu_amer,fourrage,intense;fort_en_chocolat,amer;2;4;4;2;decu;8;F;18/24;etudiants;regulierement;8;8
+16;Gfonce;Fmoyen;Gfonce_Fmoyen;10;tres_chocolate,peu_amer,fourrage,intense;fort_en_chocolat,amer;3;3;3;3;je m attendais a ca;9;F;18/24;etudiants;regulierement;8;8
+16;Gmoyen;Ffaible;Gmoyen_Ffaible;9;chocolat,noisette,caramel;assez,sucre,gout,noisette,ou,caramel;3;3;3;3;je m attendais a ca;8;F;18/24;etudiants;regulierement;8;8
+16;Gmoyen;Fmoyen;Gmoyen_Fmoyen;9;chocolat,noisette,caramel;assez,sucre,gout,noisette,ou,caramel;4;3;3;3;decu;8;F;18/24;etudiants;regulierement;8;8
+16;Gmoyen;Ffort;Gmoyen_Ffort;9;chocolat,noisette,caramel;assez,sucre,gout,noisette,ou,caramel;3;3;4;3;decu;4;F;18/24;etudiants;regulierement;8;8
+17;Gmoyen;Ffaible;Gmoyen_Ffaible;9;chocolat_au_lait;onctueux,sucre,chocolat_au_lait;3;3;3;3;je m attendais a ca;8;M;18/24;etudiants;occasionnellement;4;3
+17;Gmoyen;Fmoyen;Gmoyen_Fmoyen;9;chocolat_au_lait;onctueux,sucre,chocolat_au_lait;3;3;3;3;je m attendais a ca;8;M;18/24;etudiants;occasionnellement;4;3
+17;Gmoyen;Ffort;Gmoyen_Ffort;9;chocolat_au_lait;onctueux,sucre,chocolat_au_lait;4;4;3;3;agreablement surpris;8;M;18/24;etudiants;occasionnellement;4;3
+17;Gclair;Ffaible;Gclair_Ffaible;2;cafe;onctueux,fort,amer;4;3;3;2;agreablement surpris;6;M;18/24;etudiants;occasionnellement;4;3
+17;Gclair;Fmoyen;Gclair_Fmoyen;2;cafe;onctueux,fort,amer;4;3;3;2;agreablement surpris;7;M;18/24;etudiants;occasionnellement;4;3
+17;Gclair;Ffort;Gclair_Ffort;2;cafe;onctueux,fort,amer;4;4;3;2;agreablement surpris;6;M;18/24;etudiants;occasionnellement;4;3
+17;Gfonce;Ffort;Gfonce_Ffort;7;chocolat_noir;onctuosite,sucre,forte,intense,chocolat;3;4;3;3;je m attendais a ca;6;M;18/24;etudiants;occasionnellement;4;3
+17;Gfonce;Ffaible;Gfonce_Ffaible;7;chocolat_noir;onctuosite,sucre,forte,intense,chocolat;3;3;3;3;je m attendais a ca;8;M;18/24;etudiants;occasionnellement;4;3
+17;Gfonce;Fmoyen;Gfonce_Fmoyen;7;chocolat_noir;onctuosite,sucre,forte,intense,chocolat;3;3;3;3;je m attendais a ca;8;M;18/24;etudiants;occasionnellement;4;3
+18;Gmoyen;Ffaible;Gmoyen_Ffaible;9;fondant,sucre;douceur,moelleux,onctueux;2;3;3;3;decu;6;F;35/49;cadres moyen;regulierement;8;6
+18;Gmoyen;Fmoyen;Gmoyen_Fmoyen;9;fondant,sucre;douceur,moelleux,onctueux;3;3;3;3;decu;6;F;35/49;cadres moyen;regulierement;8;6
+18;Gmoyen;Ffort;Gmoyen_Ffort;9;fondant,sucre;douceur,moelleux,onctueux;2;3;3;3;decu;6;F;35/49;cadres moyen;regulierement;8;6
+18;Gclair;Ffaible;Gclair_Ffaible;2;cafe,sans_chocolat;amer;2;4;4;2;decu;4;F;35/49;cadres moyen;regulierement;8;6
+18;Gclair;Fmoyen;Gclair_Fmoyen;2;cafe,sans_chocolat;amer;2;3;3;2;je m attendais a ca;5;F;35/49;cadres moyen;regulierement;8;6
+18;Gclair;Ffort;Gclair_Ffort;2;cafe,sans_chocolat;amer;1;4;4;1;tres decu;3;F;35/49;cadres moyen;regulierement;8;6
+18;Gfonce;Ffort;Gfonce_Ffort;10;cacao,amer,force;amer,suavite,puissance,des,aromes;3;3;3;3;je m attendais a ca;8;F;35/49;cadres moyen;regulierement;8;6
+18;Gfonce;Ffaible;Gfonce_Ffaible;10;cacao,amer,force;amer,suavite,puissance,des,aromes;1;5;4;1;tres decu;3;F;35/49;cadres moyen;regulierement;8;6
+18;Gfonce;Fmoyen;Gfonce_Fmoyen;10;cacao,amer,force;amer,suavite,puissance,des,aromes;3;4;3;2;decu;5;F;35/49;cadres moyen;regulierement;8;6
+19;Gfonce;Ffaible;Gfonce_Ffaible;9;chocolat;tres_chocolate,sucre;3;3;3;3;je m attendais a ca;8;F;18/24;etudiants;regulierement;10;7
+19;Gfonce;Ffort;Gfonce_Ffort;9;chocolat;tres_chocolate,sucre;3;3;3;4;je m attendais a ca;5;F;18/24;etudiants;regulierement;10;7
+19;Gfonce;Fmoyen;Gfonce_Fmoyen;9;chocolat;tres_chocolate,sucre;3;4;3;3;je m attendais a ca;7;F;18/24;etudiants;regulierement;10;7
+19;Gmoyen;Ffort;Gmoyen_Ffort;8;chocolat,lait;assez,peu_chocolate,peu_sucre,peu_amer;4;4;3;4;decu;6;F;18/24;etudiants;regulierement;10;7
+19;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chocolat,lait;assez,peu_chocolate,peu_sucre,peu_amer;3;4;3;3;je m attendais a ca;8;F;18/24;etudiants;regulierement;10;7
+19;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chocolat,lait;assez,peu_chocolate,peu_sucre,peu_amer;3;3;3;3;je m attendais a ca;9;F;18/24;etudiants;regulierement;10;7
+19;Gclair;Ffaible;Gclair_Ffaible;5;cafe;amer,peu_sucre,pas,chocolate;4;4;3;2;agreablement surpris;7;F;18/24;etudiants;regulierement;10;7
+19;Gclair;Ffort;Gclair_Ffort;5;cafe;amer,peu_sucre,pas,chocolate;4;5;3;2;je m attendais a ca;6;F;18/24;etudiants;regulierement;10;7
+19;Gclair;Fmoyen;Gclair_Fmoyen;5;cafe;amer,peu_sucre,pas,chocolate;4;4;3;2;je m attendais a ca;7;F;18/24;etudiants;regulierement;10;7
+20;Gfonce;Ffaible;Gfonce_Ffaible;7;chocolat_noir,assez_fort,fonce;sucre,tres_chocolate;2;3;4;2;agreablement surpris;6;F;18/24;etudiants;occasionnellement;6;4
+20;Gfonce;Ffort;Gfonce_Ffort;7;chocolat_noir,assez_fort,fonce;sucre,tres_chocolate;3;3;3;4;je m attendais a ca;3;F;18/24;etudiants;occasionnellement;6;4
+20;Gfonce;Fmoyen;Gfonce_Fmoyen;7;chocolat_noir,assez_fort,fonce;sucre,tres_chocolate;2;3;4;2;decu;3;F;18/24;etudiants;occasionnellement;6;4
+20;Gmoyen;Ffort;Gmoyen_Ffort;7;chocolat_au_lait,caramel,sucre;sucre,lacte;4;2;3;4;decu;3;F;18/24;etudiants;occasionnellement;6;4
+20;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;chocolat_au_lait,caramel,sucre;sucre,lacte;4;2;3;3;je m attendais a ca;7;F;18/24;etudiants;occasionnellement;6;4
+20;Gmoyen;Ffaible;Gmoyen_Ffaible;7;chocolat_au_lait,caramel,sucre;sucre,lacte;3;3;3;3;agreablement surpris;8;F;18/24;etudiants;occasionnellement;6;4
+20;Gclair;Ffaible;Gclair_Ffaible;4;tres_sucre,eclair_au_cafe;pas_amer,tres_sucre,tres_lacte;3;2;2;3;agreablement surpris;7;F;18/24;etudiants;occasionnellement;6;4
+20;Gclair;Ffort;Gclair_Ffort;4;tres_sucre,eclair_au_cafe;pas_amer,tres_sucre,tres_lacte;4;2;2;3;decu;3;F;18/24;etudiants;occasionnellement;6;4
+20;Gclair;Fmoyen;Gclair_Fmoyen;4;tres_sucre,eclair_au_cafe;pas_amer,tres_sucre,tres_lacte;4;1;1;4;tres decu;1;F;18/24;etudiants;occasionnellement;6;4
+21;Gmoyen;Ffort;Gmoyen_Ffort;5;cafe,caramel;cafe,caramel,peu_chocolate;3;3;3;3;agreablement surpris;6;F;35/49;enseignant-chercheur;occasionnellement;7;5
+21;Gmoyen;Fmoyen;Gmoyen_Fmoyen;6;cafe,caramel;cafe,caramel,peu_chocolate;3;3;3;3;agreablement surpris;6;F;35/49;enseignant-chercheur;occasionnellement;7;5
+21;Gmoyen;Ffaible;Gmoyen_Ffaible;7;cafe,caramel;cafe,caramel,peu_chocolate;2;3;5;1;decu;3;F;35/49;enseignant-chercheur;occasionnellement;7;5
+21;Gfonce;Ffort;Gfonce_Ffort;10;chocolat_noir,corse,peu_sucre,patisserie,fine,gourmet;mousse,chocolat_noir,amer,densite,corse;1;4;4;2;decu;7;F;35/49;enseignant-chercheur;occasionnellement;7;5
+21;Gfonce;Fmoyen;Gfonce_Fmoyen;10;chocolat_noir,corse,peu_sucre,patisserie,fine,gourmet;mousse,chocolat_noir,amer,densite,corse;2;4;3;2;je m attendais a ca;8;F;35/49;enseignant-chercheur;occasionnellement;7;5
+21;Gfonce;Ffaible;Gfonce_Ffaible;10;chocolat_noir,corse,peu_sucre,patisserie,fine,gourmet;mousse,chocolat_noir,amer,densite,corse;1;4;4;1;tres decu;3;F;35/49;enseignant-chercheur;occasionnellement;7;5
+21;Gclair;Fmoyen;Gclair_Fmoyen;0;cafe,caramel,bretagne,pas_chocolat;trop_sucre,cafe,caramel,typicite,chocolat;4;2;3;3;je m attendais a ca;4;F;35/49;enseignant-chercheur;occasionnellement;7;5
+21;Gclair;Ffaible;Gclair_Ffaible;0;cafe,caramel,bretagne,pas_chocolat;trop_sucre,cafe,caramel,typicite,chocolat;4;3;3;3;je m attendais a ca;4;F;35/49;enseignant-chercheur;occasionnellement;7;5
+21;Gclair;Ffort;Gclair_Ffort;0;cafe,caramel,bretagne,pas_chocolat;trop_sucre,cafe,caramel,typicite,chocolat;4;2;2;4;agreablement surpris;8;F;35/49;enseignant-chercheur;occasionnellement;7;5
+22;Gmoyen;Ffort;Gmoyen_Ffort;4;chocolat_au_lait,assez_brillant,agreable_a_regarder;gras,gourmand,riche_en_lait;3;2;3;3;je m attendais a ca;6;F;18/24;etudiants;regulierement;8;5
+22;Gmoyen;Fmoyen;Gmoyen_Fmoyen;4;chocolat_au_lait,assez_brillant,agreable_a_regarder;gras,gourmand,riche_en_lait;3;4;4;3;decu;4;F;18/24;etudiants;regulierement;8;5
+22;Gmoyen;Ffaible;Gmoyen_Ffaible;4;chocolat_au_lait,assez_brillant,agreable_a_regarder;gras,gourmand,riche_en_lait;2;3;4;3;decu;4;F;18/24;etudiants;regulierement;8;5
+22;Gfonce;Ffort;Gfonce_Ffort;7;chocolat_noir,intense;peu_sucre,subtile,rafine;4;3;2;4;decu;4;F;18/24;etudiants;regulierement;8;5
+22;Gfonce;Fmoyen;Gfonce_Fmoyen;7;chocolat_noir,intense;peu_sucre,subtile,rafine;3;3;3;3;agreablement surpris;7;F;18/24;etudiants;regulierement;8;5
+22;Gfonce;Ffaible;Gfonce_Ffaible;7;chocolat_noir,intense;peu_sucre,subtile,rafine;2;3;4;3;je m attendais a ca;6;F;18/24;etudiants;regulierement;8;5
+22;Gclair;Fmoyen;Gclair_Fmoyen;2;evoque,couleur,cafe,pas_bon;fort,amer,cafe;2;3;2;3;agreablement surpris;4;F;18/24;etudiants;regulierement;8;5
+22;Gclair;Ffaible;Gclair_Ffaible;2;evoque,couleur,cafe,pas_bon;fort,amer,cafe;4;3;4;2;agreablement surpris;7;F;18/24;etudiants;regulierement;8;5
+22;Gclair;Ffort;Gclair_Ffort;2;evoque,couleur,cafe,pas_bon;fort,amer,cafe;3;3;3;4;je m attendais a ca;2;F;18/24;etudiants;regulierement;8;5
+23;Gclair;Ffort;Gclair_Ffort;3;eclair_au_cafe,trompeur,consommateur,trop_clair;peu_chocolate,cafe;3;4;2;3;je m attendais a ca;6;F;35/49;Professions liberales et cadres superieurs;occasionnellement;9;1
+23;Gclair;Fmoyen;Gclair_Fmoyen;3;eclair_au_cafe,trompeur,consommateur,trop_clair;peu_chocolate,cafe;4;3;2;3;decu;7;F;35/49;Professions liberales et cadres superieurs;occasionnellement;9;1
+23;Gclair;Ffaible;Gclair_Ffaible;3;eclair_au_cafe,trompeur,consommateur,trop_clair;peu_chocolate,cafe;3;3;3;3;agreablement surpris;9;F;35/49;Professions liberales et cadres superieurs;occasionnellement;9;1
+23;Gmoyen;Ffaible;Gmoyen_Ffaible;7;chocolat_au_lait;chocolat_au_lait,chocolat,bien,equilibre;2;5;2;3;decu;5;F;35/49;Professions liberales et cadres superieurs;occasionnellement;9;1
+23;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;chocolat_au_lait;chocolat_au_lait,chocolat,bien,equilibre;3;4;2;3;je m attendais a ca;7;F;35/49;Professions liberales et cadres superieurs;occasionnellement;9;1
+23;Gmoyen;Ffort;Gmoyen_Ffort;7;chocolat_au_lait;chocolat_au_lait,chocolat,bien,equilibre;3;3;3;3;agreablement surpris;8;F;35/49;Professions liberales et cadres superieurs;occasionnellement;9;1
+23;Gfonce;Ffort;Gfonce_Ffort;8;vraiment,fonce,evoque,chocolat_noir;chocolat_fort,amer,pas_sucre;2;4;3;2;decu;7;F;35/49;Professions liberales et cadres superieurs;occasionnellement;9;1
+23;Gfonce;Fmoyen;Gfonce_Fmoyen;8;vraiment,fonce,evoque,chocolat_noir;chocolat_fort,amer,pas_sucre;2;3;3;2;decu;7;F;35/49;Professions liberales et cadres superieurs;occasionnellement;9;1
+23;Gfonce;Ffaible;Gfonce_Ffaible;8;vraiment,fonce,evoque,chocolat_noir;chocolat_fort,amer,pas_sucre;3;5;3;2;decu;7;F;35/49;Professions liberales et cadres superieurs;occasionnellement;9;1
+24;Gclair;Ffort;Gclair_Ffort;4;cafe,leger;cafe_amer,peu_sucre;4;4;3;3;decu;4;M;18/24;etudiants;occasionnellement;8;6
+24;Gclair;Fmoyen;Gclair_Fmoyen;4;cafe,leger;cafe_amer,peu_sucre;3;3;3;2;agreablement surpris;7;M;18/24;etudiants;occasionnellement;8;6
+24;Gclair;Ffaible;Gclair_Ffaible;4;cafe,leger;cafe_amer,peu_sucre;2;3;3;2;je m attendais a ca;5;M;18/24;etudiants;occasionnellement;8;6
+24;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chocolat,assez_intense,sucre;chocolat,moelleux;2;4;4;3;decu;4;M;18/24;etudiants;occasionnellement;8;6
+24;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chocolat,assez_intense,sucre;chocolat,moelleux;4;3;3;3;je m attendais a ca;6;M;18/24;etudiants;occasionnellement;8;6
+24;Gmoyen;Ffort;Gmoyen_Ffort;8;chocolat,assez_intense,sucre;chocolat,moelleux;5;1;2;3;decu;2;M;18/24;etudiants;occasionnellement;8;6
+24;Gfonce;Ffort;Gfonce_Ffort;6;tres_intense,chocolat_noir;chocolat_intense,fort_amer;3;3;2;3;je m attendais a ca;6;M;18/24;etudiants;occasionnellement;8;6
+24;Gfonce;Fmoyen;Gfonce_Fmoyen;6;tres_intense,chocolat_noir;chocolat_intense,fort_amer;3;4;4;3;agreablement surpris;6;M;18/24;etudiants;occasionnellement;8;6
+24;Gfonce;Ffaible;Gfonce_Ffaible;6;tres_intense,chocolat_noir;chocolat_intense,fort_amer;3;3;3;3;tres agreablement surpris;8;M;18/24;etudiants;occasionnellement;8;6
+25;Gclair;Fmoyen;Gclair_Fmoyen;8;caramel,cafe,creme_de_lait;sucre,caramel,cafe,lisse;4;3;2;3;je m attendais a ca;6;M;18/24;etudiants;occasionnellement;7;3
+25;Gclair;Ffort;Gclair_Ffort;8;caramel,cafe,creme_de_lait;sucre,caramel,cafe,lisse;5;2;1;5;tres decu;2;M;18/24;etudiants;occasionnellement;7;3
+25;Gclair;Ffaible;Gclair_Ffaible;8;caramel,cafe,creme_de_lait;sucre,caramel,cafe,lisse;3;3;3;3;tres agreablement surpris;9;M;18/24;etudiants;occasionnellement;7;3
+25;Gfonce;Ffort;Gfonce_Ffort;2;chocolat_tres_noir,tres_amer,peu_sucre;trop_chocolat,peu_sucre,trop_chocolat,asseche;3;3;1;3;je m attendais a ca;4;M;18/24;etudiants;occasionnellement;7;3
+25;Gfonce;Fmoyen;Gfonce_Fmoyen;2;chocolat_tres_noir,tres_amer,peu_sucre;trop_chocolat,peu_sucre,trop_chocolat,asseche;4;5;2;3;decu;2;M;18/24;etudiants;occasionnellement;7;3
+25;Gfonce;Ffaible;Gfonce_Ffaible;2;chocolat_tres_noir,tres_amer,peu_sucre;trop_chocolat,peu_sucre,trop_chocolat,asseche;1;3;4;2;agreablement surpris;8;M;18/24;etudiants;occasionnellement;7;3
+25;Gmoyen;Ffaible;Gmoyen_Ffaible;9;chocolat_au_lait,sucre,lacte;chocolat_au_lait,lacte,creme_de_lait;3;3;3;3;tres agreablement surpris;9;M;18/24;etudiants;occasionnellement;7;3
+25;Gmoyen;Fmoyen;Gmoyen_Fmoyen;9;chocolat_au_lait,sucre,lacte;chocolat_au_lait,lacte,creme_de_lait;3;3;3;4;agreablement surpris;7;M;18/24;etudiants;occasionnellement;7;3
+25;Gmoyen;Ffort;Gmoyen_Ffort;9;chocolat_au_lait,sucre,lacte;chocolat_au_lait,lacte,creme_de_lait;4;3;1;4;decu;2;M;18/24;etudiants;occasionnellement;7;3
+26;Gclair;Fmoyen;Gclair_Fmoyen;0;cafe;fade;3;3;3;3;je m attendais a ca;2;F;18/24;etudiants;regulierement;9;4
+26;Gclair;Ffort;Gclair_Ffort;0;cafe;fade;4;2;2;5;decu;2;F;18/24;etudiants;regulierement;9;4
+26;Gclair;Ffaible;Gclair_Ffaible;0;cafe;fade;3;3;2;4;decu;3;F;18/24;etudiants;regulierement;9;4
+26;Gfonce;Ffort;Gfonce_Ffort;10;fort_en_chocolat;chocolat_fort;2;3;4;3;decu;6;F;18/24;etudiants;regulierement;9;4
+26;Gfonce;Fmoyen;Gfonce_Fmoyen;10;fort_en_chocolat;chocolat_fort;1;3;4;2;decu;5;F;18/24;etudiants;regulierement;9;4
+26;Gfonce;Ffaible;Gfonce_Ffaible;10;fort_en_chocolat;chocolat_fort;2;3;5;1;tres decu;4;F;18/24;etudiants;regulierement;9;4
+26;Gmoyen;Ffaible;Gmoyen_Ffaible;2;fade;chocolat_faible,chocolat_au_lait;4;4;2;4;agreablement surpris;6;F;18/24;etudiants;regulierement;9;4
+26;Gmoyen;Fmoyen;Gmoyen_Fmoyen;2;fade;chocolat_faible,chocolat_au_lait;5;1;1;4;tres agreablement surpris;9;F;18/24;etudiants;regulierement;9;4
+26;Gmoyen;Ffort;Gmoyen_Ffort;2;fade;chocolat_faible,chocolat_au_lait;5;1;1;5;decu;3;F;18/24;etudiants;regulierement;9;4
+27;Gfonce;Ffort;Gfonce_Ffort;9;chocolat_noir;pas_trop_sucre;2;3;3;2;decu;7;F;15/17;etudiants;occasionnellement;10;7
+27;Gfonce;Fmoyen;Gfonce_Fmoyen;9;chocolat_noir;pas_trop_sucre;3;3;3;3;je m attendais a ca;9;F;15/17;etudiants;occasionnellement;10;7
+27;Gfonce;Ffaible;Gfonce_Ffaible;9;chocolat_noir;pas_trop_sucre;2;3;3;2;decu;7;F;15/17;etudiants;occasionnellement;10;7
+27;Gclair;Ffort;Gclair_Ffort;6;chocolat_au_lait;sucre,lacte,peu_amer;3;4;4;4;decu;5;F;15/17;etudiants;occasionnellement;10;7
+27;Gclair;Fmoyen;Gclair_Fmoyen;6;chocolat_au_lait;sucre,lacte,peu_amer;3;3;3;3;je m attendais a ca;8;F;15/17;etudiants;occasionnellement;10;7
+27;Gclair;Ffaible;Gclair_Ffaible;6;chocolat_au_lait;sucre,lacte,peu_amer;3;3;3;3;agreablement surpris;9;F;15/17;etudiants;occasionnellement;10;7
+27;Gmoyen;Ffort;Gmoyen_Ffort;6;cafe,caramel;tres_sucre,chocolat,peu_intense,pas_amer;4;4;3;3;decu;3;F;15/17;etudiants;occasionnellement;10;7
+27;Gmoyen;Ffaible;Gmoyen_Ffaible;6;cafe,caramel;tres_sucre,chocolat,peu_intense,pas_amer;3;3;3;3;agreablement surpris;8;F;15/17;etudiants;occasionnellement;10;7
+27;Gmoyen;Fmoyen;Gmoyen_Fmoyen;6;cafe,caramel;tres_sucre,chocolat,peu_intense,pas_amer;3;3;3;3;je m attendais a ca;7;F;15/17;etudiants;occasionnellement;10;7
+28;Gfonce;Ffort;Gfonce_Ffort;9;luxe;sucre,moelleux;3;3;4;2;je m attendais a ca;8;M;18/24;etudiants;regulierement;9;8
+28;Gfonce;Fmoyen;Gfonce_Fmoyen;9;luxe;sucre,moelleux;4;3;3;3;je m attendais a ca;9;M;18/24;etudiants;regulierement;9;8
+28;Gfonce;Ffaible;Gfonce_Ffaible;9;luxe;sucre,moelleux;2;4;3;2;decu;6;M;18/24;etudiants;regulierement;9;8
+28;Gclair;Ffort;Gclair_Ffort;2;echec;peu_chocolate;3;5;3;3;agreablement surpris;7;M;18/24;etudiants;regulierement;9;8
+28;Gclair;Fmoyen;Gclair_Fmoyen;2;echec;peu_chocolate;4;3;3;3;je m attendais a ca;6;M;18/24;etudiants;regulierement;9;8
+28;Gclair;Ffaible;Gclair_Ffaible;2;echec;peu_chocolate;4;3;3;2;agreablement surpris;8;M;18/24;etudiants;regulierement;9;8
+28;Gmoyen;Ffort;Gmoyen_Ffort;0;eclair_au_cafe;amer,trop_sucre;4;3;3;3;agreablement surpris;8;M;18/24;etudiants;regulierement;9;8
+28;Gmoyen;Ffaible;Gmoyen_Ffaible;0;eclair_au_cafe;amer,trop_sucre;3;3;3;3;agreablement surpris;7;M;18/24;etudiants;regulierement;9;8
+28;Gmoyen;Fmoyen;Gmoyen_Fmoyen;0;eclair_au_cafe;amer,trop_sucre;4;3;2;4;agreablement surpris;7;M;18/24;etudiants;regulierement;9;8
+29;Gclair;Ffaible;Gclair_Ffaible;3;peu_chocolate,praline,cafe;amer,cafe,sucre,praline;4;3;2;2;agreablement surpris;8;F;18/24;etudiants;regulierement;10;2
+29;Gclair;Fmoyen;Gclair_Fmoyen;3;peu_chocolate,praline,cafe;amer,cafe,sucre,praline;4;2;2;2;agreablement surpris;8;F;18/24;etudiants;regulierement;10;2
+29;Gclair;Ffort;Gclair_Ffort;3;peu_chocolate,praline,cafe;amer,cafe,sucre,praline;4;2;2;3;tres agreablement surpris;9;F;18/24;etudiants;regulierement;10;2
+29;Gmoyen;Ffaible;Gmoyen_Ffaible;7;chocolat,un_peu_de_lait,sucre;sucre,chocolat_au_lait;2;4;3;3;je m attendais a ca;6;F;18/24;etudiants;regulierement;10;2
+29;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;chocolat,un_peu_de_lait,sucre;sucre,chocolat_au_lait;4;3;2;3;agreablement surpris;8;F;18/24;etudiants;regulierement;10;2
+29;Gmoyen;Ffort;Gmoyen_Ffort;7;chocolat,un_peu_de_lait,sucre;sucre,chocolat_au_lait;4;2;2;4;agreablement surpris;8;F;18/24;etudiants;regulierement;10;2
+29;Gfonce;Ffort;Gfonce_Ffort;9;chocolat_noir,amer,fort,peu_sucre;amer,peu_sucre,peu_lacte,cacao;3;4;3;3;je m attendais a ca;7;F;18/24;etudiants;regulierement;10;2
+29;Gfonce;Ffaible;Gfonce_Ffaible;9;chocolat_noir,amer,fort,peu_sucre;amer,peu_sucre,peu_lacte,cacao;2;4;4;2;decu;4;F;18/24;etudiants;regulierement;10;2
+29;Gfonce;Fmoyen;Gfonce_Fmoyen;9;chocolat_noir,amer,fort,peu_sucre;amer,peu_sucre,peu_lacte,cacao;3;4;3;3;je m attendais a ca;8;F;18/24;etudiants;regulierement;10;2
+30;Gclair;Ffaible;Gclair_Ffaible;3;cafe;fort,amer;4;4;4;1;tres agreablement surpris;10;F;18/24;etudiants;occasionnellement;10;2
+30;Gclair;Fmoyen;Gclair_Fmoyen;3;cafe;fort,amer;5;5;2;2;agreablement surpris;7;F;18/24;etudiants;occasionnellement;10;2
+30;Gclair;Ffort;Gclair_Ffort;3;cafe;fort,amer;3;3;4;3;decu;2;F;18/24;etudiants;occasionnellement;10;2
+30;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chocolat,gourmand;sucre,doux;2;3;3;3;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;10;2
+30;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chocolat,gourmand;sucre,doux;4;4;3;3;decu;6;F;18/24;etudiants;occasionnellement;10;2
+30;Gmoyen;Ffort;Gmoyen_Ffort;8;chocolat,gourmand;sucre,doux;4;2;2;5;tres decu;2;F;18/24;etudiants;occasionnellement;10;2
+30;Gfonce;Ffort;Gfonce_Ffort;10;chocolat,intense,savoureux,appetissant,plaisir;chocolat_fort;3;3;4;3;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;10;2
+30;Gfonce;Ffaible;Gfonce_Ffaible;10;chocolat,intense,savoureux,appetissant,plaisir;chocolat_fort;2;3;4;2;decu;7;F;18/24;etudiants;occasionnellement;10;2
+30;Gfonce;Fmoyen;Gfonce_Fmoyen;10;chocolat,intense,savoureux,appetissant,plaisir;chocolat_fort;3;3;4;2;je m attendais a ca;9;F;18/24;etudiants;occasionnellement;10;2
+31;Gclair;Ffaible;Gclair_Ffaible;6;cafe;moelleux,gateau,fraicheur,onctuosite,creme,tres_sucre;2;3;2;1;agreablement surpris;7;F;18/24;etudiants;regulierement;10;3
+31;Gclair;Fmoyen;Gclair_Fmoyen;6;cafe;moelleux,gateau,fraicheur,onctuosite,creme,tres_sucre;4;3;3;3;agreablement surpris;8;F;18/24;etudiants;regulierement;10;3
+31;Gclair;Ffort;Gclair_Ffort;6;cafe;moelleux,gateau,fraicheur,onctuosite,creme,tres_sucre;4;2;2;2;decu;6;F;18/24;etudiants;regulierement;10;3
+31;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;chocolat_au_lait;bchocolat,noisette,sucre,fondant;3;3;3;3;je m attendais a ca;8;F;18/24;etudiants;regulierement;10;3
+31;Gmoyen;Ffaible;Gmoyen_Ffaible;7;chocolat_au_lait;bchocolat,noisette,sucre,fondant;2;4;3;2;decu;7;F;18/24;etudiants;regulierement;10;3
+31;Gmoyen;Ffort;Gmoyen_Ffort;7;chocolat_au_lait;bchocolat,noisette,sucre,fondant;4;2;2;4;decu;6;F;18/24;etudiants;regulierement;10;3
+31;Gfonce;Fmoyen;Gfonce_Fmoyen;9;chocolat_noir;bon_chocolat_noir,intense,fondant;2;3;2;2;agreablement surpris;9;F;18/24;etudiants;regulierement;10;3
+31;Gfonce;Ffaible;Gfonce_Ffaible;9;chocolat_noir;bon_chocolat_noir,intense,fondant;3;3;3;3;agreablement surpris;9;F;18/24;etudiants;regulierement;10;3
+31;Gfonce;Ffort;Gfonce_Ffort;9;chocolat_noir;bon_chocolat_noir,intense,fondant;5;4;2;4;decu;5;F;18/24;etudiants;regulierement;10;3
+32;Gclair;Ffaible;Gclair_Ffaible;7;eclair_au_cafe,peu_sucre;sucre,cafe,chocolat;3;3;4;3;je m attendais a ca;7;F;18/24;etudiants;occasionnellement;10;3
+32;Gclair;Fmoyen;Gclair_Fmoyen;7;eclair_au_cafe,peu_sucre;sucre,cafe,chocolat;4;3;3;3;agreablement surpris;9;F;18/24;etudiants;occasionnellement;10;3
+32;Gclair;Ffort;Gclair_Ffort;7;eclair_au_cafe,peu_sucre;sucre,cafe,chocolat;4;2;2;5;decu;4;F;18/24;etudiants;occasionnellement;10;3
+32;Gmoyen;Fmoyen;Gmoyen_Fmoyen;9;prononce,chocolat;sucre,chocolat_au_lait;3;3;4;3;agreablement surpris;8;F;18/24;etudiants;occasionnellement;10;3
+32;Gmoyen;Ffaible;Gmoyen_Ffaible;9;prononce,chocolat;sucre,chocolat_au_lait;2;3;3;2;decu;5;F;18/24;etudiants;occasionnellement;10;3
+32;Gmoyen;Ffort;Gmoyen_Ffort;9;prononce,chocolat;sucre,chocolat_au_lait;4;3;2;4;decu;3;F;18/24;etudiants;occasionnellement;10;3
+32;Gfonce;Fmoyen;Gfonce_Fmoyen;9;eclair,fort_en_chocolat,plutot_amer;sucre,amer,chocolat_noir;2;3;3;3;agreablement surpris;8;F;18/24;etudiants;occasionnellement;10;3
+32;Gfonce;Ffaible;Gfonce_Ffaible;9;eclair,fort_en_chocolat,plutot_amer;sucre,amer,chocolat_noir;2;2;2;2;decu;2;F;18/24;etudiants;occasionnellement;10;3
+32;Gfonce;Ffort;Gfonce_Ffort;9;eclair,fort_en_chocolat,plutot_amer;sucre,amer,chocolat_noir;3;3;4;4;decu;5;F;18/24;etudiants;occasionnellement;10;3
+33;Gfonce;Ffort;Gfonce_Ffort;10;chocolat,intense,doux,cremeux;chocolat_noir,sucre,amer;2;3;3;2;decu;9;F;18/24;etudiants;regulierement;10;1
+33;Gfonce;Fmoyen;Gfonce_Fmoyen;10;chocolat,intense,doux,cremeux;chocolat_noir,sucre,amer;3;3;3;3;je m attendais a ca;10;F;18/24;etudiants;regulierement;10;1
+33;Gfonce;Ffaible;Gfonce_Ffaible;10;chocolat,intense,doux,cremeux;chocolat_noir,sucre,amer;1;3;3;1;tres decu;6;F;18/24;etudiants;regulierement;10;1
+33;Gclair;Fmoyen;Gclair_Fmoyen;10;chocolat_au_lait,caramel,marron_clair;chocolat_au_lait,doux,sucre,lacte;3;3;3;3;je m attendais a ca;5;F;18/24;etudiants;regulierement;10;1
+33;Gclair;Ffort;Gclair_Ffort;10;chocolat_au_lait,caramel,marron_clair;chocolat_au_lait,doux,sucre,lacte;3;3;3;4;decu;3;F;18/24;etudiants;regulierement;10;1
+33;Gclair;Ffaible;Gclair_Ffaible;10;chocolat_au_lait,caramel,marron_clair;chocolat_au_lait,doux,sucre,lacte;3;3;3;3;agreablement surpris;8;F;18/24;etudiants;regulierement;10;1
+33;Gmoyen;Ffaible;Gmoyen_Ffaible;4;cafe,trop_clair;lacte,sucre,cafe;4;3;3;4;tres agreablement surpris;8;F;18/24;etudiants;regulierement;10;1
+33;Gmoyen;Ffort;Gmoyen_Ffort;4;cafe,trop_clair;lacte,sucre,cafe;5;2;2;5;decu;5;F;18/24;etudiants;regulierement;10;1
+33;Gmoyen;Fmoyen;Gmoyen_Fmoyen;4;cafe,trop_clair;lacte,sucre,cafe;3;3;3;3;je m attendais a ca;7;F;18/24;etudiants;regulierement;10;1
+34;Gfonce;Ffort;Gfonce_Ffort;4;tres_brillant;sucre,onctuosite;3;3;2;3;agreablement surpris;7;F;15/17;etudiants;jamais;4;4
+34;Gfonce;Fmoyen;Gfonce_Fmoyen;4;tres_brillant;sucre,onctuosite;2;3;3;2;decu;4;F;15/17;etudiants;jamais;4;4
+34;Gfonce;Ffaible;Gfonce_Ffaible;4;tres_brillant;sucre,onctuosite;2;3;3;2;je m attendais a ca;5;F;15/17;etudiants;jamais;4;4
+34;Gclair;Fmoyen;Gclair_Fmoyen;5;douceur;tres_sucre,peu_chocolate;1;2;4;1;tres decu;2;F;15/17;etudiants;jamais;4;4
+34;Gclair;Ffort;Gclair_Ffort;5;douceur;tres_sucre,peu_chocolate;3;2;1;4;agreablement surpris;5;F;15/17;etudiants;jamais;4;4
+34;Gclair;Ffaible;Gclair_Ffaible;5;douceur;tres_sucre,peu_chocolate;3;3;3;2;tres agreablement surpris;10;F;15/17;etudiants;jamais;4;4
+34;Gmoyen;Ffaible;Gmoyen_Ffaible;2;eclair_au_cafe;amer,pas,tres_sucre;1;1;3;2;tres decu;0;F;15/17;etudiants;jamais;4;4
+34;Gmoyen;Ffort;Gmoyen_Ffort;2;eclair_au_cafe;amer,pas,tres_sucre;3;2;2;3;agreablement surpris;7;F;15/17;etudiants;jamais;4;4
+34;Gmoyen;Fmoyen;Gmoyen_Fmoyen;2;eclair_au_cafe;amer,pas,tres_sucre;3;3;3;2;agreablement surpris;9;F;15/17;etudiants;jamais;4;4
+35;Gclair;Fmoyen;Gclair_Fmoyen;3;eclair_au_cafe;bien_garnis,fondant;4;2;3;1;je m attendais a ca;9;F;18/24;etudiants;occasionnellement;8;7
+35;Gclair;Ffort;Gclair_Ffort;3;eclair_au_cafe;bien_garnis,fondant;4;2;2;4;decu;5;F;18/24;etudiants;occasionnellement;8;7
+35;Gclair;Ffaible;Gclair_Ffaible;3;eclair_au_cafe;bien_garnis,fondant;3;3;3;3;agreablement surpris;7;F;18/24;etudiants;occasionnellement;8;7
+35;Gmoyen;Ffaible;Gmoyen_Ffaible;3;sec;sec,sucre;1;1;2;2;decu;5;F;18/24;etudiants;occasionnellement;8;7
+35;Gmoyen;Fmoyen;Gmoyen_Fmoyen;3;sec;sec,sucre;4;3;3;4;je m attendais a ca;7;F;18/24;etudiants;occasionnellement;8;7
+35;Gmoyen;Ffort;Gmoyen_Ffort;3;sec;sec,sucre;2;1;2;4;decu;4;F;18/24;etudiants;occasionnellement;8;7
+35;Gfonce;Fmoyen;Gfonce_Fmoyen;10;intense,bien_sucre,garnis;fondant,onctueux,chocolat,pas_trop_amer;3;3;3;3;tres agreablement surpris;9;F;18/24;etudiants;occasionnellement;8;7
+35;Gfonce;Ffaible;Gfonce_Ffaible;10;intense,bien_sucre,garnis;fondant,onctueux,chocolat,pas_trop_amer;2;3;3;3;tres agreablement surpris;10;F;18/24;etudiants;occasionnellement;8;7
+35;Gfonce;Ffort;Gfonce_Ffort;10;intense,bien_sucre,garnis;fondant,onctueux,chocolat,pas_trop_amer;4;2;2;4;decu;5;F;18/24;etudiants;occasionnellement;8;7
+36;Gclair;Fmoyen;Gclair_Fmoyen;2;impression,cafe,moins_sucre,plus_doux;fondant,amer,feuillete;2;2;3;2;agreablement surpris;8;F;18/24;etudiants;occasionnellement;9;5
+36;Gclair;Ffort;Gclair_Ffort;2;impression,cafe,moins_sucre,plus_doux;fondant,amer,feuillete;4;3;3;3;tres agreablement surpris;9;F;18/24;etudiants;occasionnellement;9;5
+36;Gclair;Ffaible;Gclair_Ffaible;2;impression,cafe,moins_sucre,plus_doux;fondant,amer,feuillete;2;1;3;1;decu;3;F;18/24;etudiants;occasionnellement;9;5
+36;Gmoyen;Ffaible;Gmoyen_Ffaible;8;cacao,envie,chocolat;fondant,bien,chocolate,pas_trop_amer;1;2;2;1;je m attendais a ca;2;F;18/24;etudiants;occasionnellement;9;5
+36;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;cacao,envie,chocolat;fondant,bien,chocolate,pas_trop_amer;3;3;3;3;tres agreablement surpris;9;F;18/24;etudiants;occasionnellement;9;5
+36;Gmoyen;Ffort;Gmoyen_Ffort;8;cacao,envie,chocolat;fondant,bien,chocolate,pas_trop_amer;4;3;2;4;agreablement surpris;9;F;18/24;etudiants;occasionnellement;9;5
+36;Gfonce;Fmoyen;Gfonce_Fmoyen;10;chocolat,beaucoup_de_gout,fort,plutot_amer;fondant,onctueux;2;3;3;2;agreablement surpris;8;F;18/24;etudiants;occasionnellement;9;5
+36;Gfonce;Ffaible;Gfonce_Ffaible;10;chocolat,beaucoup_de_gout,fort,plutot_amer;fondant,onctueux;1;1;3;1;decu;2;F;18/24;etudiants;occasionnellement;9;5
+36;Gfonce;Ffort;Gfonce_Ffort;10;chocolat,beaucoup_de_gout,fort,plutot_amer;fondant,onctueux;3;3;3;3;je m attendais a ca;10;F;18/24;etudiants;occasionnellement;9;5
+37;Gfonce;Ffaible;Gfonce_Ffaible;8;chocolat_noir,plaisir;sucre,assez_amer;2;5;4;2;je m attendais a ca;3;F;18/24;etudiants;regulierement;10;6
+37;Gfonce;Ffort;Gfonce_Ffort;8;chocolat_noir,plaisir;sucre,assez_amer;4;3;4;4;decu;3;F;18/24;etudiants;regulierement;10;6
+37;Gfonce;Fmoyen;Gfonce_Fmoyen;8;chocolat_noir,plaisir;sucre,assez_amer;3;4;4;3;agreablement surpris;7;F;18/24;etudiants;regulierement;10;6
+37;Gmoyen;Ffort;Gmoyen_Ffort;4;chocolat_au_lait,caramel,trop_brillant;trop_sucre,ecoeurant;3;5;5;1;je m attendais a ca;2;F;18/24;etudiants;regulierement;10;6
+37;Gmoyen;Fmoyen;Gmoyen_Fmoyen;4;chocolat_au_lait,caramel,trop_brillant;trop_sucre,ecoeurant;4;4;4;3;agreablement surpris;4;F;18/24;etudiants;regulierement;10;6
+37;Gmoyen;Ffaible;Gmoyen_Ffaible;4;chocolat_au_lait,caramel,trop_brillant;trop_sucre,ecoeurant;4;5;5;2;je m attendais a ca;2;F;18/24;etudiants;regulierement;10;6
+37;Gclair;Ffaible;Gclair_Ffaible;2;caramel_beurre_sale,lait,beurre;sucre,beurre,chocolat_au_lait,sucre;3;4;3;3;je m attendais a ca;1;F;18/24;etudiants;regulierement;10;6
+37;Gclair;Ffort;Gclair_Ffort;2;caramel_beurre_sale,lait,beurre;sucre,beurre,chocolat_au_lait,sucre;4;2;4;4;agreablement surpris;4;F;18/24;etudiants;regulierement;10;6
+37;Gclair;Fmoyen;Gclair_Fmoyen;2;caramel_beurre_sale,lait,beurre;sucre,beurre,chocolat_au_lait,sucre;2;4;3;3;je m attendais a ca;3;F;18/24;etudiants;regulierement;10;6
+38;Gfonce;Ffaible;Gfonce_Ffaible;8;eclair_au_chocolat;intense,chocolat,qualite,du,chou;2;3;4;2;agreablement surpris;8;F;18/24;etudiants;occasionnellement;7;5
+38;Gfonce;Ffort;Gfonce_Ffort;8;eclair_au_chocolat;intense,chocolat,qualite,du,chou;5;2;2;4;decu;3;F;18/24;etudiants;occasionnellement;7;5
+38;Gfonce;Fmoyen;Gfonce_Fmoyen;8;eclair_au_chocolat;intense,chocolat,qualite,du,chou;3;3;3;2;agreablement surpris;8;F;18/24;etudiants;occasionnellement;7;5
+38;Gmoyen;Ffort;Gmoyen_Ffort;8;caramel;gout,sucre,caramel,intense,caramel;4;2;3;4;decu;4;F;18/24;etudiants;occasionnellement;7;5
+38;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;caramel;gout,sucre,caramel,intense,caramel;3;3;3;3;agreablement surpris;6;F;18/24;etudiants;occasionnellement;7;5
+38;Gmoyen;Ffaible;Gmoyen_Ffaible;8;caramel;gout,sucre,caramel,intense,caramel;3;3;3;3;je m attendais a ca;7;F;18/24;etudiants;occasionnellement;7;5
+38;Gclair;Ffaible;Gclair_Ffaible;3;cafe;intense,cafe,qualite,chou,gout,amer;3;4;2;2;agreablement surpris;6;F;18/24;etudiants;occasionnellement;7;5
+38;Gclair;Ffort;Gclair_Ffort;3;cafe;intense,cafe,qualite,chou,gout,amer;4;2;2;3;decu;3;F;18/24;etudiants;occasionnellement;7;5
+38;Gclair;Fmoyen;Gclair_Fmoyen;3;cafe;intense,cafe,qualite,chou,gout,amer;3;4;3;2;decu;6;F;18/24;etudiants;occasionnellement;7;5
+39;Gmoyen;Ffort;Gmoyen_Ffort;8;caramel,chocolat,original,brillant;chocolat_au_lait,gout,caramel;3;3;2;3;decu;8;F;18/24;etudiants;occasionnellement;2;3
+39;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;caramel,chocolat,original,brillant;chocolat_au_lait,gout,caramel;3;4;3;3;decu;7;F;18/24;etudiants;occasionnellement;2;3
+39;Gmoyen;Ffaible;Gmoyen_Ffaible;8;caramel,chocolat,original,brillant;chocolat_au_lait,gout,caramel;2;5;3;2;tres decu;5;F;18/24;etudiants;occasionnellement;2;3
+39;Gclair;Ffaible;Gclair_Ffaible;3;cafe,amer,tres_sucre;tres_sucre,gout,cafe;1;4;3;2;decu;5;F;18/24;etudiants;occasionnellement;2;3
+39;Gclair;Ffort;Gclair_Ffort;3;cafe,amer,tres_sucre;tres_sucre,gout,cafe;3;3;3;3;tres agreablement surpris;8;F;18/24;etudiants;occasionnellement;2;3
+39;Gclair;Fmoyen;Gclair_Fmoyen;3;cafe,amer,tres_sucre;tres_sucre,gout,cafe;3;3;3;3;agreablement surpris;8;F;18/24;etudiants;occasionnellement;2;3
+39;Gfonce;Ffaible;Gfonce_Ffaible;9;tres_intense,chocolat_noir,amer,moins_sucre;intense,amer,peu_sucre,onctueux;2;4;4;2;tres decu;6;F;18/24;etudiants;occasionnellement;2;3
+39;Gfonce;Fmoyen;Gfonce_Fmoyen;9;tres_intense,chocolat_noir,amer,moins_sucre;intense,amer,peu_sucre,onctueux;2;3;4;3;decu;8;F;18/24;etudiants;occasionnellement;2;3
+39;Gfonce;Ffort;Gfonce_Ffort;9;tres_intense,chocolat_noir,amer,moins_sucre;intense,amer,peu_sucre,onctueux;3;3;3;3;tres agreablement surpris;10;F;18/24;etudiants;occasionnellement;2;3
+40;Gfonce;Fmoyen;Gfonce_Fmoyen;3;chocolat;beaucoup_chocolat_noir;2;3;4;4;decu;5;M;10;ecolier;regulierement;9;3
+40;Gfonce;Ffort;Gfonce_Ffort;3;chocolat;beaucoup_chocolat_noir;3;3;3;3;agreablement surpris;7;M;10;ecolier;regulierement;9;3
+40;Gfonce;Ffaible;Gfonce_Ffaible;3;chocolat;beaucoup_chocolat_noir;2;4;4;2;tres agreablement surpris;8;M;10;ecolier;regulierement;9;3
+40;Gmoyen;Fmoyen;Gmoyen_Fmoyen;4;cafe,chocolat_au_lait;fraicheur,amer;3;3;4;2;je m attendais a ca;5;M;10;ecolier;regulierement;9;3
+40;Gmoyen;Ffaible;Gmoyen_Ffaible;4;cafe,chocolat_au_lait;fraicheur,amer;3;4;4;3;je m attendais a ca;7;M;10;ecolier;regulierement;9;3
+40;Gmoyen;Ffort;Gmoyen_Ffort;4;cafe,chocolat_au_lait;fraicheur,amer;5;2;2;4;tres decu;4;M;10;ecolier;regulierement;9;3
+40;Gclair;Fmoyen;Gclair_Fmoyen;8;caramel;caramel;3;2;3;3;agreablement surpris;8;M;10;ecolier;regulierement;9;3
+40;Gclair;Ffaible;Gclair_Ffaible;8;caramel;caramel;3;2;4;3;je m attendais a ca;8;M;10;ecolier;regulierement;9;3
+40;Gclair;Ffort;Gclair_Ffort;8;caramel;caramel;5;1;2;4;decu;3;M;10;ecolier;regulierement;9;3
+41;Gfonce;Fmoyen;Gfonce_Fmoyen;10;delicieux;sucre,croquant,chocolat;4;4;2;1;agreablement surpris;8;F;25/34;etudiants;regulierement;7;3
+41;Gfonce;Ffaible;Gfonce_Ffaible;10;delicieux;sucre,croquant,chocolat;2;2;2;4;decu;5;F;25/34;etudiants;regulierement;7;3
+41;Gfonce;Ffort;Gfonce_Ffort;10;delicieux;sucre,croquant,chocolat;5;3;4;3;tres agreablement surpris;10;F;25/34;etudiants;regulierement;7;3
+41;Gmoyen;Fmoyen;Gmoyen_Fmoyen;10;cafe;cafe,creme;2;3;4;3;decu;6;F;25/34;etudiants;regulierement;7;3
+41;Gmoyen;Ffort;Gmoyen_Ffort;10;cafe;cafe,creme;4;4;4;2;je m attendais a ca;7;F;25/34;etudiants;regulierement;7;3
+41;Gmoyen;Ffaible;Gmoyen_Ffaible;10;cafe;cafe,creme;4;4;5;3;je m attendais a ca;6;F;25/34;etudiants;regulierement;7;3
+41;Gclair;Ffaible;Gclair_Ffaible;10;cafe,envie;cafe,creme,lacte,sucre,fondant;3;4;5;3;decu;7;F;25/34;etudiants;regulierement;7;3
+41;Gclair;Fmoyen;Gclair_Fmoyen;10;cafe,envie;cafe,creme,lacte,sucre,fondant;3;5;4;3;agreablement surpris;8;F;25/34;etudiants;regulierement;7;3
+41;Gclair;Ffort;Gclair_Ffort;10;cafe,envie;cafe,creme,lacte,sucre,fondant;1;4;3;3;decu;5;F;25/34;etudiants;regulierement;7;3
+42;Gfonce;Fmoyen;Gfonce_Fmoyen;7;chocolat,assez_fort;fort_en_chocolat;3;4;3;2;je m attendais a ca;7;F;25/34;professions liberales et cadres superieurs;regulierement;8;7
+42;Gfonce;Ffaible;Gfonce_Ffaible;7;chocolat,assez_fort;fort_en_chocolat;2;4;3;2;je m attendais a ca;6;F;25/34;professions liberales et cadres superieurs;regulierement;8;7
+42;Gfonce;Ffort;Gfonce_Ffort;7;chocolat,assez_fort;fort_en_chocolat;3;3;3;3;agreablement surpris;8;F;25/34;professions liberales et cadres superieurs;regulierement;8;7
+42;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chocolat_au_lait;sucre;1;2;4;3;decu;4;F;25/34;professions liberales et cadres superieurs;regulierement;8;7
+42;Gmoyen;Ffort;Gmoyen_Ffort;8;chocolat_au_lait;sucre;4;2;3;4;agreablement surpris;5;F;25/34;professions liberales et cadres superieurs;regulierement;8;7
+42;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chocolat_au_lait;sucre;3;3;3;3;je m attendais a ca;4;F;25/34;professions liberales et cadres superieurs;regulierement;8;7
+42;Gclair;Ffaible;Gclair_Ffaible;7;chocolat,caramel;chocolat,caramel_beurre_sale;2;2;3;3;decu;2;F;25/34;professions liberales et cadres superieurs;regulierement;8;7
+42;Gclair;Fmoyen;Gclair_Fmoyen;7;chocolat,caramel;chocolat,caramel_beurre_sale;4;2;2;4;agreablement surpris;7;F;25/34;professions liberales et cadres superieurs;regulierement;8;7
+42;Gclair;Ffort;Gclair_Ffort;7;chocolat,caramel;chocolat,caramel_beurre_sale;4;2;2;5;decu;6;F;25/34;professions liberales et cadres superieurs;regulierement;8;7
+43;Gmoyen;Ffort;Gmoyen_Ffort;3;trop_claire,pas_homogene,pas_assez_de_chocolat,trop_de_sucre,trop_brillant;trop_sucre,pas_assez_chocolat,collant;1;3;4;2;decu;2;F;18/24;etudiants;regulierement;8;7
+43;Gmoyen;Fmoyen;Gmoyen_Fmoyen;3;trop_claire,pas_homogene,pas_assez_de_chocolat,trop_de_sucre,trop_brillant;trop_sucre,pas_assez_chocolat,collant;3;4;3;3;je m attendais a ca;4;F;18/24;etudiants;regulierement;8;7
+43;Gmoyen;Ffaible;Gmoyen_Ffaible;3;trop_claire,pas_homogene,pas_assez_de_chocolat,trop_de_sucre,trop_brillant;trop_sucre,pas_assez_chocolat,collant;4;3;2;3;agreablement surpris;6;F;18/24;etudiants;regulierement;8;7
+43;Gclair;Ffaible;Gclair_Ffaible;1;cafe,trop_terne,pas_assez_concentre;trop_sucre,tres_peu_chocolate,chocolat,tres_lait,tres_peu_amer;1;4;4;1;decu;2;F;18/24;etudiants;regulierement;8;7
+43;Gclair;Ffort;Gclair_Ffort;1;cafe,trop_terne,pas_assez_concentre;trop_sucre,tres_peu_chocolate,chocolat,tres_lait,tres_peu_amer;5;3;2;5;je m attendais a ca;2;F;18/24;etudiants;regulierement;8;7
+43;Gclair;Fmoyen;Gclair_Fmoyen;1;cafe,trop_terne,pas_assez_concentre;trop_sucre,tres_peu_chocolate,chocolat,tres_lait,tres_peu_amer;4;3;3;3;tres agreablement surpris;8;F;18/24;etudiants;regulierement;8;7
+43;Gfonce;Ffaible;Gfonce_Ffaible;8;chocolate,intense,sucre,artificiel;chocolat_intense,pas_lacte;1;3;4;1;tres decu;2;F;18/24;etudiants;regulierement;8;7
+43;Gfonce;Fmoyen;Gfonce_Fmoyen;8;chocolate,intense,sucre,artificiel;chocolat_intense,pas_lacte;4;3;2;4;je m attendais a ca;7;F;18/24;etudiants;regulierement;8;7
+43;Gfonce;Ffort;Gfonce_Ffort;8;chocolate,intense,sucre,artificiel;chocolat_intense,pas_lacte;5;2;1;5;decu;4;F;18/24;etudiants;regulierement;8;7
+44;Gmoyen;Ffaible;Gmoyen_Ffaible;6;chocolat,caramel,tres_brillant;chocolat,caramel;2;4;2;1;decu;3;F;50/64;cadres moyen;regulierement;7;7
+44;Gmoyen;Fmoyen;Gmoyen_Fmoyen;6;chocolat,caramel,tres_brillant;chocolat,caramel;3;3;3;3;agreablement surpris;7;F;50/64;cadres moyen;regulierement;7;7
+44;Gmoyen;Ffort;Gmoyen_Ffort;6;chocolat,caramel,tres_brillant;chocolat,caramel;2;4;2;2;agreablement surpris;6;F;50/64;cadres moyen;regulierement;7;7
+44;Gfonce;Ffaible;Gfonce_Ffaible;9;chocolat_noir;chocolat_noir,amer,brut;1;2;3;1;decu;5;F;50/64;cadres moyen;regulierement;7;7
+44;Gfonce;Ffort;Gfonce_Ffort;9;chocolat_noir;chocolat_noir,amer,brut;3;3;3;3;tres agreablement surpris;9;F;50/64;cadres moyen;regulierement;7;7
+44;Gfonce;Fmoyen;Gfonce_Fmoyen;9;chocolat_noir;chocolat_noir,amer,brut;3;3;3;3;tres agreablement surpris;9;F;50/64;cadres moyen;regulierement;7;7
+44;Gclair;Fmoyen;Gclair_Fmoyen;0;cafe,caramel;cafe,caramel;4;4;4;1;decu;4;F;50/64;cadres moyen;regulierement;7;7
+44;Gclair;Ffort;Gclair_Ffort;0;cafe,caramel;cafe,caramel;4;3;2;3;agreablement surpris;7;F;50/64;cadres moyen;regulierement;7;7
+44;Gclair;Ffaible;Gclair_Ffaible;0;cafe,caramel;cafe,caramel;1;1;3;1;decu;3;F;50/64;cadres moyen;regulierement;7;7
+45;Gmoyen;Ffaible;Gmoyen_Ffaible;7;chocolat_noir;bon,chocolat,intense;2;4;3;2;agreablement surpris;7;M;50/64;cadres moyen;regulierement;6;9
+45;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;chocolat_noir;bon,chocolat,intense;3;4;4;2;agreablement surpris;8;M;50/64;cadres moyen;regulierement;6;9
+45;Gmoyen;Ffort;Gmoyen_Ffort;7;chocolat_noir;bon,chocolat,intense;3;4;3;3;tres agreablement surpris;8;M;50/64;cadres moyen;regulierement;6;9
+45;Gfonce;Ffaible;Gfonce_Ffaible;7;chocolat_noir;amer,force,chocolat;2;4;4;2;decu;3;M;50/64;cadres moyen;regulierement;6;9
+45;Gfonce;Ffort;Gfonce_Ffort;7;chocolat_noir;amer,force,chocolat;3;4;3;2;agreablement surpris;8;M;50/64;cadres moyen;regulierement;6;9
+45;Gfonce;Fmoyen;Gfonce_Fmoyen;7;chocolat_noir;amer,force,chocolat;3;3;3;2;agreablement surpris;8;M;50/64;cadres moyen;regulierement;6;9
+45;Gclair;Fmoyen;Gclair_Fmoyen;4;cafe,caramel;cafe,caramel;2;4;4;2;decu;6;M;50/64;cadres moyen;regulierement;6;9
+45;Gclair;Ffort;Gclair_Ffort;4;cafe,caramel;cafe,caramel;4;4;3;3;agreablement surpris;6;M;50/64;cadres moyen;regulierement;6;9
+45;Gclair;Ffaible;Gclair_Ffaible;4;cafe,caramel;cafe,caramel;3;3;3;3;tres agreablement surpris;9;M;50/64;cadres moyen;regulierement;6;9
+46;Gclair;Fmoyen;Gclair_Fmoyen;2;cafe,;cafe,pas_du_chocolat;2;2;3;1;je m attendais a ca;3;F;18/24;etudiants;occasionnellement;7;3
+46;Gclair;Ffaible;Gclair_Ffaible;2;cafe,;cafe,pas_du_chocolat;2;3;3;2;agreablement surpris;5;F;18/24;etudiants;occasionnellement;7;3
+46;Gclair;Ffort;Gclair_Ffort;2;cafe,;cafe,pas_du_chocolat;4;3;3;3;agreablement surpris;7;F;18/24;etudiants;occasionnellement;7;3
+46;Gfonce;Ffort;Gfonce_Ffort;9;chocolat,intense;chocolat,intense,amer;2;4;3;3;decu;7;F;18/24;etudiants;occasionnellement;7;3
+46;Gfonce;Ffaible;Gfonce_Ffaible;9;chocolat,intense;chocolat,intense,amer;1;4;3;2;tres decu;5;F;18/24;etudiants;occasionnellement;7;3
+46;Gfonce;Fmoyen;Gfonce_Fmoyen;9;chocolat,intense;chocolat,intense,amer;3;3;3;3;je m attendais a ca;9;F;18/24;etudiants;occasionnellement;7;3
+46;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chocolat_au_lait;chocolat,plus,sucre,moins,intense;4;2;3;2;je m attendais a ca;6;F;18/24;etudiants;occasionnellement;7;3
+46;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chocolat_au_lait;chocolat,plus,sucre,moins,intense;3;3;3;1;decu;5;F;18/24;etudiants;occasionnellement;7;3
+46;Gmoyen;Ffort;Gmoyen_Ffort;8;chocolat_au_lait;chocolat,plus,sucre,moins,intense;5;2;2;4;agreablement surpris;8;F;18/24;etudiants;occasionnellement;7;3
+47;Gclair;Fmoyen;Gclair_Fmoyen;2;cafe;sucre,cremeux,craquant;3;3;4;2;agreablement surpris;7;F;18/24;etudiants;regulierement;9;0
+47;Gclair;Ffaible;Gclair_Ffaible;2;cafe;sucre,cremeux,craquant;2;3;5;1;decu;6;F;18/24;etudiants;regulierement;9;0
+47;Gclair;Ffort;Gclair_Ffort;2;cafe;sucre,cremeux,craquant;3;3;3;3;je m attendais a ca;5;F;18/24;etudiants;regulierement;9;0
+47;Gfonce;Ffort;Gfonce_Ffort;9;chocolat,intense,puissant;amer,gout,cacaote;2;3;2;3;je m attendais a ca;3;F;18/24;etudiants;regulierement;9;0
+47;Gfonce;Ffaible;Gfonce_Ffaible;9;chocolat,intense,puissant;amer,gout,cacaote;2;4;4;1;tres decu;2;F;18/24;etudiants;regulierement;9;0
+47;Gfonce;Fmoyen;Gfonce_Fmoyen;9;chocolat,intense,puissant;amer,gout,cacaote;2;3;3;2;je m attendais a ca;5;F;18/24;etudiants;regulierement;9;0
+47;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;chocolat,sucre,pas_lacte;tres_sucre,doux;4;2;4;3;decu;4;F;18/24;etudiants;regulierement;9;0
+47;Gmoyen;Ffaible;Gmoyen_Ffaible;7;chocolat,sucre,pas_lacte;tres_sucre,doux;3;3;3;3;agreablement surpris;8;F;18/24;etudiants;regulierement;9;0
+47;Gmoyen;Ffort;Gmoyen_Ffort;7;chocolat,sucre,pas_lacte;tres_sucre,doux;5;2;3;5;tres decu;1;F;18/24;etudiants;regulierement;9;0
+48;Gmoyen;Ffaible;Gmoyen_Ffaible;4;marron_assez_clair,chocolat_au_lait;pate,assez_ferme,coulant;2;3;4;3;decu;5;F;18/24;etudiants;occasionnellement;10;0
+48;Gmoyen;Ffort;Gmoyen_Ffort;4;marron_assez_clair,chocolat_au_lait;pate,assez_ferme,coulant;4;2;2;4;agreablement surpris;7;F;18/24;etudiants;occasionnellement;10;0
+48;Gmoyen;Fmoyen;Gmoyen_Fmoyen;4;marron_assez_clair,chocolat_au_lait;pate,assez_ferme,coulant;3;3;3;4;agreablement surpris;8;F;18/24;etudiants;occasionnellement;10;0
+48;Gfonce;Fmoyen;Gfonce_Fmoyen;7;chocolat_noir;chocolat,intense;2;4;4;2;decu;4;F;18/24;etudiants;occasionnellement;10;0
+48;Gfonce;Ffort;Gfonce_Ffort;7;chocolat_noir;chocolat,intense;3;3;3;3;je m attendais a ca;6;F;18/24;etudiants;occasionnellement;10;0
+48;Gfonce;Ffaible;Gfonce_Ffaible;7;chocolat_noir;chocolat,intense;2;4;2;2;decu;3;F;18/24;etudiants;occasionnellement;10;0
+48;Gclair;Ffaible;Gclair_Ffaible;2;cafe;peu_chocolate;2;5;3;3;decu;4;F;18/24;etudiants;occasionnellement;10;0
+48;Gclair;Ffort;Gclair_Ffort;2;cafe;peu_chocolate;5;2;3;4;agreablement surpris;6;F;18/24;etudiants;occasionnellement;10;0
+48;Gclair;Fmoyen;Gclair_Fmoyen;2;cafe;peu_chocolate;3;4;3;2;je m attendais a ca;5;F;18/24;etudiants;occasionnellement;10;0
+49;Gmoyen;Ffaible;Gmoyen_Ffaible;5;chocolat_au_lait;liquide;2;4;4;3;je m attendais a ca;5;F;18/24;etudiants;occasionnellement;8;1
+49;Gmoyen;Ffort;Gmoyen_Ffort;5;chocolat_au_lait;liquide;4;3;3;3;agreablement surpris;7;F;18/24;etudiants;occasionnellement;8;1
+49;Gmoyen;Fmoyen;Gmoyen_Fmoyen;5;chocolat_au_lait;liquide;3;3;4;4;agreablement surpris;8;F;18/24;etudiants;occasionnellement;8;1
+49;Gfonce;Fmoyen;Gfonce_Fmoyen;7;chocolat_noir;assez_intense,amer;2;1;3;2;decu;4;F;18/24;etudiants;occasionnellement;8;1
+49;Gfonce;Ffort;Gfonce_Ffort;7;chocolat_noir;assez_intense,amer;3;3;3;3;je m attendais a ca;6;F;18/24;etudiants;occasionnellement;8;1
+49;Gfonce;Ffaible;Gfonce_Ffaible;7;chocolat_noir;assez_intense,amer;1;5;4;2;decu;4;F;18/24;etudiants;occasionnellement;8;1
+49;Gclair;Ffaible;Gclair_Ffaible;4;cafe;peu_chocolate,ni_trop_amer,ni_trop_doux;2;4;4;2;decu;4;F;18/24;etudiants;occasionnellement;8;1
+49;Gclair;Ffort;Gclair_Ffort;4;cafe;peu_chocolate,ni_trop_amer,ni_trop_doux;4;3;3;3;je m attendais a ca;6;F;18/24;etudiants;occasionnellement;8;1
+49;Gclair;Fmoyen;Gclair_Fmoyen;4;cafe;peu_chocolate,ni_trop_amer,ni_trop_doux;1;5;5;2;tres decu;2;F;18/24;etudiants;occasionnellement;8;1
+50;Gfonce;Ffort;Gfonce_Ffort;10;chocolat_patissier;fort,gout,de,chocolat_noir,pas_trop_amer;1;4;4;1;decu;6;M;18/24;etudiants;regulierement;10;2
+50;Gfonce;Fmoyen;Gfonce_Fmoyen;10;chocolat_patissier;fort,gout,de,chocolat_noir,pas_trop_amer;3;4;4;3;decu;6;M;18/24;etudiants;regulierement;10;2
+50;Gfonce;Ffaible;Gfonce_Ffaible;10;chocolat_patissier;fort,gout,de,chocolat_noir,pas_trop_amer;3;3;3;3;je m attendais a ca;9;M;18/24;etudiants;regulierement;10;2
+50;Gmoyen;Ffort;Gmoyen_Ffort;5;chocolat_au_lait;chocolat_au_lait,fade,pate,noisette;1;5;3;5;decu;2;M;18/24;etudiants;regulierement;10;2
+50;Gmoyen;Fmoyen;Gmoyen_Fmoyen;5;chocolat_au_lait;chocolat_au_lait,fade,pate,noisette;3;2;3;3;je m attendais a ca;7;M;18/24;etudiants;regulierement;10;2
+50;Gmoyen;Ffaible;Gmoyen_Ffaible;5;chocolat_au_lait;chocolat_au_lait,fade,pate,noisette;3;3;3;3;je m attendais a ca;6;M;18/24;etudiants;regulierement;10;2
+50;Gclair;Ffaible;Gclair_Ffaible;0;cafe,praline;tres,forte_amer,du,cafe;4;4;4;1;tres agreablement surpris;6;M;18/24;etudiants;regulierement;10;2
+50;Gclair;Fmoyen;Gclair_Fmoyen;0;cafe,praline;tres,forte_amer,du,cafe;5;3;2;2;tres agreablement surpris;8;M;18/24;etudiants;regulierement;10;2
+50;Gclair;Ffort;Gclair_Ffort;0;cafe,praline;tres,forte_amer,du,cafe;3;4;3;3;je m attendais a ca;0;M;18/24;etudiants;regulierement;10;2
+51;Gfonce;Ffort;Gfonce_Ffort;10;envie,eclair_au_chocolat;chocolate,sucre,doux;3;3;3;3;je m attendais a ca;10;F;18/24;etudiants;occasionnellement;7;3
+51;Gfonce;Fmoyen;Gfonce_Fmoyen;10;envie,eclair_au_chocolat;chocolate,sucre,doux;4;4;3;3;decu;6;F;18/24;etudiants;occasionnellement;7;3
+51;Gfonce;Ffaible;Gfonce_Ffaible;10;envie,eclair_au_chocolat;chocolate,sucre,doux;2;4;3;3;agreablement surpris;8;F;18/24;etudiants;occasionnellement;7;3
+51;Gmoyen;Ffort;Gmoyen_Ffort;5;chocolat_au_lait;doux,lait,chocolate;2;3;3;3;agreablement surpris;9;F;18/24;etudiants;occasionnellement;7;3
+51;Gmoyen;Fmoyen;Gmoyen_Fmoyen;5;chocolat_au_lait;doux,lait,chocolate;3;4;3;3;tres agreablement surpris;10;F;18/24;etudiants;occasionnellement;7;3
+51;Gmoyen;Ffaible;Gmoyen_Ffaible;5;chocolat_au_lait;doux,lait,chocolate;2;3;3;3;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;7;3
+51;Gclair;Ffaible;Gclair_Ffaible;0;cafe,caramel;cafe,amer,pas_bon;2;4;3;2;agreablement surpris;5;F;18/24;etudiants;occasionnellement;7;3
+51;Gclair;Fmoyen;Gclair_Fmoyen;0;cafe,caramel;cafe,amer,pas_bon;4;4;3;3;tres agreablement surpris;9;F;18/24;etudiants;occasionnellement;7;3
+51;Gclair;Ffort;Gclair_Ffort;0;cafe,caramel;cafe,amer,pas_bon;2;2;3;3;decu;3;F;18/24;etudiants;occasionnellement;7;3
+52;Gfonce;Ffort;Gfonce_Ffort;8;beaucoup_de_chocolat_noir,60%,brillant,appetissant,fraichement_glace;chocolat,onctueux,cremeux;1;3;3;1;decu;6;F;50/64;retraites;occasionnellement;8;0
+52;Gfonce;Fmoyen;Gfonce_Fmoyen;8;beaucoup_de_chocolat_noir,60%,brillant,appetissant,fraichement_glace;chocolat,onctueux,cremeux;2;3;3;1;decu;7;F;50/64;retraites;occasionnellement;8;0
+52;Gfonce;Ffaible;Gfonce_Ffaible;8;beaucoup_de_chocolat_noir,60%,brillant,appetissant,fraichement_glace;chocolat,onctueux,cremeux;1;4;3;1;decu;5;F;50/64;retraites;occasionnellement;8;0
+52;Gclair;Fmoyen;Gclair_Fmoyen;6;peu_pale,moins_chocolate;pale,brillant,lacte,fraicheur,du,produit;3;3;3;3;agreablement surpris;8;F;50/64;retraites;occasionnellement;8;0
+52;Gclair;Ffort;Gclair_Ffort;6;peu_pale,moins_chocolate;pale,brillant,lacte,fraicheur,du,produit;3;3;3;3;tres agreablement surpris;9;F;50/64;retraites;occasionnellement;8;0
+52;Gclair;Ffaible;Gclair_Ffaible;6;peu_pale,moins_chocolate;pale,brillant,lacte,fraicheur,du,produit;1;5;4;2;tres decu;3;F;50/64;retraites;occasionnellement;8;0
+52;Gmoyen;Ffaible;Gmoyen_Ffaible;8;brillant,frais,cafe,appetissant;frais,cafe,onctueux,cremeux;3;3;3;3;tres agreablement surpris;10;F;50/64;retraites;occasionnellement;8;0
+52;Gmoyen;Ffort;Gmoyen_Ffort;8;brillant,frais,cafe,appetissant;frais,cafe,onctueux,cremeux;3;4;3;3;agreablement surpris;9;F;50/64;retraites;occasionnellement;8;0
+52;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;brillant,frais,cafe,appetissant;frais,cafe,onctueux,cremeux;3;5;4;3;decu;7;F;50/64;retraites;occasionnellement;8;0
+53;Gfonce;Ffort;Gfonce_Ffort;5;classique;sucre,chocolat,legere,amer,douceur;2;2;3;4;je m attendais a ca;3;M;50/64;professions liberales et cadres superieurs;regulierement;10;4
+53;Gfonce;Fmoyen;Gfonce_Fmoyen;5;classique;sucre,chocolat,legere,amer,douceur;1;1;2;2;decu;2;M;50/64;professions liberales et cadres superieurs;regulierement;10;4
+53;Gfonce;Ffaible;Gfonce_Ffaible;5;classique;sucre,chocolat,legere,amer,douceur;3;3;3;3;agreablement surpris;7;M;50/64;professions liberales et cadres superieurs;regulierement;10;4
+53;Gclair;Fmoyen;Gclair_Fmoyen;8;chocolat_au_lait;lacte,;2;3;2;1;decu;2;M;50/64;professions liberales et cadres superieurs;regulierement;10;4
+53;Gclair;Ffort;Gclair_Ffort;8;chocolat_au_lait;lacte,;3;3;3;4;je m attendais a ca;5;M;50/64;professions liberales et cadres superieurs;regulierement;10;4
+53;Gclair;Ffaible;Gclair_Ffaible;8;chocolat_au_lait;lacte,;2;2;2;5;decu;2;M;50/64;professions liberales et cadres superieurs;regulierement;10;4
+53;Gmoyen;Ffaible;Gmoyen_Ffaible;3;caramel;sucre,lacte;3;2;2;3;decu;4;M;50/64;professions liberales et cadres superieurs;regulierement;10;4
+53;Gmoyen;Ffort;Gmoyen_Ffort;3;caramel;sucre,lacte;3;3;3;3;je m attendais a ca;8;M;50/64;professions liberales et cadres superieurs;regulierement;10;4
+53;Gmoyen;Fmoyen;Gmoyen_Fmoyen;3;caramel;sucre,lacte;2;2;2;2;decu;3;M;50/64;professions liberales et cadres superieurs;regulierement;10;4
+54;Gclair;Fmoyen;Gclair_Fmoyen;2;cafe,caramel,pas_du_chocolat,peu_de_gout;fade,sucre;4;4;4;2;agreablement surpris;8;F;18/24;etudiants;occasionnellement;9;2
+54;Gclair;Ffort;Gclair_Ffort;2;cafe,caramel,pas_du_chocolat,peu_de_gout;fade,sucre;2;5;2;3;je m attendais a ca;1;F;18/24;etudiants;occasionnellement;9;2
+54;Gclair;Ffaible;Gclair_Ffaible;2;cafe,caramel,pas_du_chocolat,peu_de_gout;fade,sucre;4;4;4;1;agreablement surpris;8;F;18/24;etudiants;occasionnellement;9;2
+54;Gmoyen;Ffort;Gmoyen_Ffort;5;chocolat_au_lait,sucre,chocolat,chaud;sucre,lait;4;1;1;5;tres decu;2;F;18/24;etudiants;occasionnellement;9;2
+54;Gmoyen;Ffaible;Gmoyen_Ffaible;5;chocolat_au_lait,sucre,chocolat,chaud;sucre,lait;3;3;3;3;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;9;2
+54;Gmoyen;Fmoyen;Gmoyen_Fmoyen;5;chocolat_au_lait,sucre,chocolat,chaud;sucre,lait;5;1;2;4;decu;3;F;18/24;etudiants;occasionnellement;9;2
+54;Gfonce;Ffaible;Gfonce_Ffaible;9;chocolat_noir;fort,gout,de,chocolat,;2;3;4;3;je m attendais a ca;7;F;18/24;etudiants;occasionnellement;9;2
+54;Gfonce;Fmoyen;Gfonce_Fmoyen;9;chocolat_noir;fort,gout,de,chocolat,;2;4;4;2;je m attendais a ca;7;F;18/24;etudiants;occasionnellement;9;2
+54;Gfonce;Ffort;Gfonce_Ffort;9;chocolat_noir;fort,gout,de,chocolat,;2;1;1;5;tres decu;2;F;18/24;etudiants;occasionnellement;9;2
+55;Gclair;Fmoyen;Gclair_Fmoyen;3;caramel;sucre,doux,leger;4;2;4;3;agreablement surpris;7;F;18/24;etudiants;occasionnellement;5;2
+55;Gclair;Ffort;Gclair_Ffort;3;caramel;sucre,doux,leger;4;3;3;3;decu;3;F;18/24;etudiants;occasionnellement;5;2
+55;Gclair;Ffaible;Gclair_Ffaible;3;caramel;sucre,doux,leger;3;3;3;3;decu;3;F;18/24;etudiants;occasionnellement;5;2
+55;Gmoyen;Ffort;Gmoyen_Ffort;6;chocolat;chocolat,sucre,fort;3;3;3;3;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;5;2
+55;Gmoyen;Ffaible;Gmoyen_Ffaible;6;chocolat;chocolat,sucre,fort;2;3;3;3;decu;5;F;18/24;etudiants;occasionnellement;5;2
+55;Gmoyen;Fmoyen;Gmoyen_Fmoyen;6;chocolat;chocolat,sucre,fort;3;3;3;3;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;5;2
+55;Gfonce;Ffaible;Gfonce_Ffaible;6;chocolat_noir;chocolate,amer,intense;1;3;3;2;decu;4;F;18/24;etudiants;occasionnellement;5;2
+55;Gfonce;Fmoyen;Gfonce_Fmoyen;6;chocolat_noir;chocolate,amer,intense;3;3;3;3;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;5;2
+55;Gfonce;Ffort;Gfonce_Ffort;6;chocolat_noir;chocolate,amer,intense;3;3;3;3;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;5;2
+56;Gmoyen;Ffort;Gmoyen_Ffort;7;chocolat,praline;douceur,onctuosite,cacao,sucre;4;3;2;4;agreablement surpris;6;M;25/34;cadres moyen;occasionnellement;4;6
+56;Gmoyen;Ffaible;Gmoyen_Ffaible;7;chocolat,praline;douceur,onctuosite,cacao,sucre;3;4;3;2;agreablement surpris;7;M;25/34;cadres moyen;occasionnellement;4;6
+56;Gmoyen;Fmoyen;Gmoyen_Fmoyen;7;chocolat,praline;douceur,onctuosite,cacao,sucre;3;3;3;3;tres agreablement surpris;9;M;25/34;cadres moyen;occasionnellement;4;6
+56;Gclair;Fmoyen;Gclair_Fmoyen;5;cafe;cafe,chocolat;3;3;4;2;je m attendais a ca;7;M;25/34;cadres moyen;occasionnellement;4;6
+56;Gclair;Ffaible;Gclair_Ffaible;5;cafe;cafe,chocolat;2;4;4;2;je m attendais a ca;6;M;25/34;cadres moyen;occasionnellement;4;6
+56;Gclair;Ffort;Gclair_Ffort;5;cafe;cafe,chocolat;4;2;1;4;decu;4;M;25/34;cadres moyen;occasionnellement;4;6
+56;Gfonce;Ffaible;Gfonce_Ffaible;10;intense,cacao,qualite,chocolat_noir;chocolat,intense,equilibre;2;4;3;2;decu;4;M;25/34;cadres moyen;occasionnellement;4;6
+56;Gfonce;Ffort;Gfonce_Ffort;10;intense,cacao,qualite,chocolat_noir;chocolat,intense,equilibre;3;4;2;3;je m attendais a ca;8;M;25/34;cadres moyen;occasionnellement;4;6
+56;Gfonce;Fmoyen;Gfonce_Fmoyen;10;intense,cacao,qualite,chocolat_noir;chocolat,intense,equilibre;3;4;3;3;je m attendais a ca;8;M;25/34;cadres moyen;occasionnellement;4;6
+57;Gmoyen;Ffort;Gmoyen_Ffort;6;chocolat,cafe;sucre,croustillant,froid;2;2;3;3;decu;3;F;25/34;etudiants;regulierement;9;7
+57;Gmoyen;Ffaible;Gmoyen_Ffaible;6;chocolat,cafe;sucre,croustillant,froid;3;3;3;3;agreablement surpris;7;F;25/34;etudiants;regulierement;9;7
+57;Gmoyen;Fmoyen;Gmoyen_Fmoyen;6;chocolat,cafe;sucre,croustillant,froid;4;3;2;3;agreablement surpris;9;F;25/34;etudiants;regulierement;9;7
+57;Gclair;Fmoyen;Gclair_Fmoyen;5;cafe,caramel;cafe,sucre,froid;4;3;3;4;decu;4;F;25/34;etudiants;regulierement;9;7
+57;Gclair;Ffaible;Gclair_Ffaible;5;cafe,caramel;cafe,sucre,froid;3;3;3;3;je m attendais a ca;6;F;25/34;etudiants;regulierement;9;7
+57;Gclair;Ffort;Gclair_Ffort;5;cafe,caramel;cafe,sucre,froid;4;2;2;4;decu;4;F;25/34;etudiants;regulierement;9;7
+57;Gfonce;Ffaible;Gfonce_Ffaible;8;chocolat_noir;amer,du,chocolat_noir,cafe;2;2;1;4;tres decu;2;F;25/34;etudiants;regulierement;9;7
+57;Gfonce;Ffort;Gfonce_Ffort;8;chocolat_noir;amer,du,chocolat_noir,cafe;3;2;2;4;je m attendais a ca;5;F;25/34;etudiants;regulierement;9;7
+57;Gfonce;Fmoyen;Gfonce_Fmoyen;8;chocolat_noir;amer,du,chocolat_noir,cafe;3;3;3;3;je m attendais a ca;8;F;25/34;etudiants;regulierement;9;7
+58;Gclair;Ffaible;Gclair_Ffaible;7;cafe,caramel;cafe_amer,croquant;3;3;3;2;tres agreablement surpris;9;F;18/24;etudiants;occasionnellement;7;6
+58;Gclair;Fmoyen;Gclair_Fmoyen;7;cafe,caramel;cafe_amer,croquant;4;4;3;2;tres agreablement surpris;8;F;18/24;etudiants;occasionnellement;7;6
+58;Gclair;Ffort;Gclair_Ffort;7;cafe,caramel;cafe_amer,croquant;3;2;3;4;agreablement surpris;7;F;18/24;etudiants;occasionnellement;7;6
+58;Gfonce;Fmoyen;Gfonce_Fmoyen;10;chocolat_noir,amer;tres_sucre;3;4;3;2;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;7;6
+58;Gfonce;Ffaible;Gfonce_Ffaible;10;chocolat_noir,amer;tres_sucre;3;3;3;2;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;7;6
+58;Gfonce;Ffort;Gfonce_Ffort;10;chocolat_noir,amer;tres_sucre;4;3;2;3;agreablement surpris;8;F;18/24;etudiants;occasionnellement;7;6
+58;Gmoyen;Fmoyen;Gmoyen_Fmoyen;6;chocolat_au_lait,caramel;tres_sucre,fondant;4;4;4;2;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;7;6
+58;Gmoyen;Ffaible;Gmoyen_Ffaible;6;chocolat_au_lait,caramel;tres_sucre,fondant;4;4;4;2;je m attendais a ca;8;F;18/24;etudiants;occasionnellement;7;6
+58;Gmoyen;Ffort;Gmoyen_Ffort;6;chocolat_au_lait,caramel;tres_sucre,fondant;4;2;3;4;decu;7;F;18/24;etudiants;occasionnellement;7;6
+59;Gclair;Ffaible;Gclair_Ffaible;1;cafe;neutre,fade;1;3;3;1;je m attendais a ca;2;F;50/64;employes;occasionnellement;9;7
+59;Gclair;Fmoyen;Gclair_Fmoyen;1;cafe;neutre,fade;4;3;3;2;je m attendais a ca;5;F;50/64;employes;occasionnellement;9;7
+59;Gclair;Ffort;Gclair_Ffort;1;cafe;neutre,fade;2;4;4;4;je m attendais a ca;0;F;50/64;employes;occasionnellement;9;7
+59;Gfonce;Fmoyen;Gfonce_Fmoyen;7;chocolat,sombre;amer,peu_sucre,gouteux;3;3;4;3;je m attendais a ca;6;F;50/64;employes;occasionnellement;9;7
+59;Gfonce;Ffaible;Gfonce_Ffaible;7;chocolat,sombre;amer,peu_sucre,gouteux;1;3;5;1;tres decu;0;F;50/64;employes;occasionnellement;9;7
+59;Gfonce;Ffort;Gfonce_Ffort;7;chocolat,sombre;amer,peu_sucre,gouteux;2;2;5;3;tres decu;0;F;50/64;employes;occasionnellement;9;7
+59;Gmoyen;Fmoyen;Gmoyen_Fmoyen;8;chocolat,cafe,;chocolat,leger,peu_amer,sucre;4;3;3;2;je m attendais a ca;6;F;50/64;employes;occasionnellement;9;7
+59;Gmoyen;Ffaible;Gmoyen_Ffaible;8;chocolat,cafe,;chocolat,leger,peu_amer,sucre;2;2;4;2;decu;3;F;50/64;employes;occasionnellement;9;7
+59;Gmoyen;Ffort;Gmoyen_Ffort;8;chocolat,cafe,;chocolat,leger,peu_amer,sucre;4;3;4;4;decu;0;F;50/64;employes;occasionnellement;9;7
+60;Gfonce;Fmoyen;Gfonce_Fmoyen;3;chocolat;beaucoup_chocolat_noir;2;3;4;4;decu;5;F;50/64;cadres moyen;regulierement;9;3
+60;Gfonce;Ffort;Gfonce_Ffort;3;chocolat;beaucoup_chocolat_noir;3;3;3;3;agreablement surpris;7;F;50/64;cadres moyen;regulierement;9;3
+60;Gfonce;Ffaible;Gfonce_Ffaible;3;chocolat;beaucoup_chocolat_noir;2;4;4;2;tres agreablement surpris;8;F;50/64;cadres moyen;regulierement;9;3
+60;Gmoyen;Fmoyen;Gmoyen_Fmoyen;4;cafe,chocolat_au_lait;fraicheur,amer;3;3;4;2;je m attendais a ca;5;F;50/64;cadres moyen;regulierement;9;3
+60;Gmoyen;Ffaible;Gmoyen_Ffaible;4;cafe,chocolat_au_lait;fraicheur,amer;3;4;4;3;je m attendais a ca;7;F;50/64;cadres moyen;regulierement;9;3
+60;Gmoyen;Ffort;Gmoyen_Ffort;4;cafe,chocolat_au_lait;fraicheur,amer;5;2;2;4;tres decu;4;F;50/64;cadres moyen;regulierement;9;3
+60;Gclair;Fmoyen;Gclair_Fmoyen;8;caramel;caramel;3;2;3;3;agreablement surpris;8;F;50/64;cadres moyen;regulierement;9;3
+60;Gclair;Ffaible;Gclair_Ffaible;8;caramel;caramel;3;2;4;3;je m attendais a ca;8;F;50/64;cadres moyen;regulierement;9;3
+60;Gclair;Ffort;Gclair_Ffort;8;caramel;caramel;5;1;2;4;decu;3;F;50/64;cadres moyen;regulierement;9;3
